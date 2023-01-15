@@ -1,0 +1,2665 @@
+,RegionName,date,median_rent
+0,Miami,2014-01-01,2200.0
+1,Hialeah,2014-01-01,
+2,Miami Gardens,2014-01-01,1525.0
+3,Miami Beach,2014-01-01,2400.0
+4,Homestead,2014-01-01,1300.0
+5,Kendall,2014-01-01,1685.0
+6,Fountainbleau,2014-01-01,1600.0
+7,North Miami,2014-01-01,1500.0
+8,Kendale Lakes,2014-01-01,1500.0
+9,Tamiami,2014-01-01,2000.0
+10,The Hammocks,2014-01-01,1825.0
+11,Doral,2014-01-01,2150.0
+12,Coral Gables,2014-01-01,2500.0
+13,Country Club,2014-01-01,1400.0
+14,Cutler Bay,2014-01-01,1650.0
+15,North Miami Beach,2014-01-01,1500.0
+16,Kendall West,2014-01-01,1500.0
+17,Aventura,2014-01-01,2200.0
+18,Golden Glades,2014-01-01,
+19,Richmond West,2014-01-01,1900.0
+20,Miami Lakes,2014-01-01,
+21,University Park,2014-01-01,
+22,The Crossings,2014-01-01,1625.0
+23,Hialeah Gardens,2014-01-01,
+24,Ives Estates,2014-01-01,
+25,Sunny Isles Beach,2014-01-01,
+26,Ojus,2014-01-01,
+27,Glenvar Heights,2014-01-01,1725.0
+28,Sunset,2014-01-01,
+29,Three Lakes,2014-01-01,1825.0
+30,Key Biscayne,2014-01-01,4400.0
+31,South Miami,2014-01-01,
+32,Country Walk,2014-01-01,
+33,North Bay Village,2014-01-01,1790.0
+34,Surfside,2014-01-01,3000.0
+35,Bay Harbor Islands,2014-01-01,1725.0
+36,Bal Harbour,2014-01-01,
+37,Miami,2014-02-01,2200.0
+38,Hialeah,2014-02-01,
+39,Miami Gardens,2014-02-01,1500.0
+40,Miami Beach,2014-02-01,2400.0
+41,Homestead,2014-02-01,1300.0
+42,Kendall,2014-02-01,1675.0
+43,Fountainbleau,2014-02-01,1550.0
+44,North Miami,2014-02-01,1500.0
+45,Kendale Lakes,2014-02-01,1582.5
+46,Tamiami,2014-02-01,2000.0
+47,The Hammocks,2014-02-01,1842.5
+48,Doral,2014-02-01,2200.0
+49,Coral Gables,2014-02-01,2500.0
+50,Country Club,2014-02-01,1400.0
+51,Cutler Bay,2014-02-01,1700.0
+52,North Miami Beach,2014-02-01,1500.0
+53,Kendall West,2014-02-01,1550.0
+54,Aventura,2014-02-01,2200.0
+55,Golden Glades,2014-02-01,
+56,Richmond West,2014-02-01,1850.0
+57,Miami Lakes,2014-02-01,
+58,University Park,2014-02-01,
+59,The Crossings,2014-02-01,1600.0
+60,Hialeah Gardens,2014-02-01,
+61,Ives Estates,2014-02-01,
+62,Sunny Isles Beach,2014-02-01,
+63,Ojus,2014-02-01,
+64,Glenvar Heights,2014-02-01,1650.0
+65,Sunset,2014-02-01,
+66,Three Lakes,2014-02-01,1800.0
+67,Key Biscayne,2014-02-01,4500.0
+68,South Miami,2014-02-01,
+69,Country Walk,2014-02-01,
+70,North Bay Village,2014-02-01,1900.0
+71,Surfside,2014-02-01,3000.0
+72,Bay Harbor Islands,2014-02-01,1700.0
+73,Bal Harbour,2014-02-01,
+74,Miami,2014-03-01,2200.0
+75,Hialeah,2014-03-01,
+76,Miami Gardens,2014-03-01,1500.0
+77,Miami Beach,2014-03-01,2400.0
+78,Homestead,2014-03-01,1300.0
+79,Kendall,2014-03-01,1650.0
+80,Fountainbleau,2014-03-01,1550.0
+81,North Miami,2014-03-01,1480.0
+82,Kendale Lakes,2014-03-01,1575.0
+83,Tamiami,2014-03-01,1937.5
+84,The Hammocks,2014-03-01,1800.0
+85,Doral,2014-03-01,2200.0
+86,Coral Gables,2014-03-01,2600.0
+87,Country Club,2014-03-01,1387.5
+88,Cutler Bay,2014-03-01,1700.0
+89,North Miami Beach,2014-03-01,1450.0
+90,Kendall West,2014-03-01,1550.0
+91,Aventura,2014-03-01,2200.0
+92,Golden Glades,2014-03-01,
+93,Richmond West,2014-03-01,1850.0
+94,Miami Lakes,2014-03-01,
+95,University Park,2014-03-01,
+96,The Crossings,2014-03-01,1600.0
+97,Hialeah Gardens,2014-03-01,
+98,Ives Estates,2014-03-01,
+99,Sunny Isles Beach,2014-03-01,
+100,Ojus,2014-03-01,
+101,Glenvar Heights,2014-03-01,1600.0
+102,Sunset,2014-03-01,
+103,Three Lakes,2014-03-01,1850.0
+104,Key Biscayne,2014-03-01,4500.0
+105,South Miami,2014-03-01,
+106,Country Walk,2014-03-01,
+107,North Bay Village,2014-03-01,1900.0
+108,Surfside,2014-03-01,2850.0
+109,Bay Harbor Islands,2014-03-01,1700.0
+110,Bal Harbour,2014-03-01,
+111,Miami,2014-04-01,2200.0
+112,Hialeah,2014-04-01,
+113,Miami Gardens,2014-04-01,1500.0
+114,Miami Beach,2014-04-01,2395.0
+115,Homestead,2014-04-01,1300.0
+116,Kendall,2014-04-01,1650.0
+117,Fountainbleau,2014-04-01,1500.0
+118,North Miami,2014-04-01,1495.0
+119,Kendale Lakes,2014-04-01,1550.0
+120,Tamiami,2014-04-01,2000.0
+121,The Hammocks,2014-04-01,1800.0
+122,Doral,2014-04-01,2150.0
+123,Coral Gables,2014-04-01,2600.0
+124,Country Club,2014-04-01,1377.5
+125,Cutler Bay,2014-04-01,1677.5
+126,North Miami Beach,2014-04-01,1500.0
+127,Kendall West,2014-04-01,1500.0
+128,Aventura,2014-04-01,2200.0
+129,Golden Glades,2014-04-01,
+130,Richmond West,2014-04-01,1875.0
+131,Miami Lakes,2014-04-01,
+132,University Park,2014-04-01,
+133,The Crossings,2014-04-01,1600.0
+134,Hialeah Gardens,2014-04-01,
+135,Ives Estates,2014-04-01,
+136,Sunny Isles Beach,2014-04-01,
+137,Ojus,2014-04-01,
+138,Glenvar Heights,2014-04-01,1600.0
+139,Sunset,2014-04-01,
+140,Three Lakes,2014-04-01,1850.0
+141,Key Biscayne,2014-04-01,4500.0
+142,South Miami,2014-04-01,
+143,Country Walk,2014-04-01,
+144,North Bay Village,2014-04-01,1889.0
+145,Surfside,2014-04-01,2750.0
+146,Bay Harbor Islands,2014-04-01,1685.0
+147,Bal Harbour,2014-04-01,
+148,Miami,2014-05-01,2225.0
+149,Hialeah,2014-05-01,
+150,Miami Gardens,2014-05-01,1500.0
+151,Miami Beach,2014-05-01,2400.0
+152,Homestead,2014-05-01,1312.5
+153,Kendall,2014-05-01,1650.0
+154,Fountainbleau,2014-05-01,1450.0
+155,North Miami,2014-05-01,1500.0
+156,Kendale Lakes,2014-05-01,1450.0
+157,Tamiami,2014-05-01,1950.0
+158,The Hammocks,2014-05-01,1800.0
+159,Doral,2014-05-01,2100.0
+160,Coral Gables,2014-05-01,2700.0
+161,Country Club,2014-05-01,1350.0
+162,Cutler Bay,2014-05-01,1637.5
+163,North Miami Beach,2014-05-01,1600.0
+164,Kendall West,2014-05-01,1400.0
+165,Aventura,2014-05-01,2300.0
+166,Golden Glades,2014-05-01,
+167,Richmond West,2014-05-01,1925.0
+168,Miami Lakes,2014-05-01,
+169,University Park,2014-05-01,
+170,The Crossings,2014-05-01,1600.0
+171,Hialeah Gardens,2014-05-01,
+172,Ives Estates,2014-05-01,
+173,Sunny Isles Beach,2014-05-01,
+174,Ojus,2014-05-01,
+175,Glenvar Heights,2014-05-01,1600.0
+176,Sunset,2014-05-01,
+177,Three Lakes,2014-05-01,1850.0
+178,Key Biscayne,2014-05-01,4500.0
+179,South Miami,2014-05-01,
+180,Country Walk,2014-05-01,
+181,North Bay Village,2014-05-01,1987.5
+182,Surfside,2014-05-01,2675.0
+183,Bay Harbor Islands,2014-05-01,1750.0
+184,Bal Harbour,2014-05-01,
+185,Miami,2014-06-01,2200.0
+186,Hialeah,2014-06-01,
+187,Miami Gardens,2014-06-01,1500.0
+188,Miami Beach,2014-06-01,2390.0
+189,Homestead,2014-06-01,1325.0
+190,Kendall,2014-06-01,1700.0
+191,Fountainbleau,2014-06-01,1450.0
+192,North Miami,2014-06-01,1495.0
+193,Kendale Lakes,2014-06-01,1500.0
+194,Tamiami,2014-06-01,1950.0
+195,The Hammocks,2014-06-01,1750.0
+196,Doral,2014-06-01,2100.0
+197,Coral Gables,2014-06-01,2650.0
+198,Country Club,2014-06-01,1350.0
+199,Cutler Bay,2014-06-01,1600.0
+200,North Miami Beach,2014-06-01,1550.0
+201,Kendall West,2014-06-01,1400.0
+202,Aventura,2014-06-01,2300.0
+203,Golden Glades,2014-06-01,
+204,Richmond West,2014-06-01,1900.0
+205,Miami Lakes,2014-06-01,
+206,University Park,2014-06-01,
+207,The Crossings,2014-06-01,1600.0
+208,Hialeah Gardens,2014-06-01,
+209,Ives Estates,2014-06-01,
+210,Sunny Isles Beach,2014-06-01,
+211,Ojus,2014-06-01,
+212,Glenvar Heights,2014-06-01,1662.5
+213,Sunset,2014-06-01,
+214,Three Lakes,2014-06-01,1850.0
+215,Key Biscayne,2014-06-01,4500.0
+216,South Miami,2014-06-01,
+217,Country Walk,2014-06-01,
+218,North Bay Village,2014-06-01,2100.0
+219,Surfside,2014-06-01,2800.0
+220,Bay Harbor Islands,2014-06-01,1750.0
+221,Bal Harbour,2014-06-01,
+222,Miami,2014-07-01,2300.0
+223,Hialeah,2014-07-01,
+224,Miami Gardens,2014-07-01,1550.0
+225,Miami Beach,2014-07-01,2400.0
+226,Homestead,2014-07-01,1350.0
+227,Kendall,2014-07-01,1700.0
+228,Fountainbleau,2014-07-01,1500.0
+229,North Miami,2014-07-01,1450.0
+230,Kendale Lakes,2014-07-01,1500.0
+231,Tamiami,2014-07-01,1975.0
+232,The Hammocks,2014-07-01,1800.0
+233,Doral,2014-07-01,2150.0
+234,Coral Gables,2014-07-01,2600.0
+235,Country Club,2014-07-01,1350.0
+236,Cutler Bay,2014-07-01,1650.0
+237,North Miami Beach,2014-07-01,1650.0
+238,Kendall West,2014-07-01,1450.0
+239,Aventura,2014-07-01,2350.0
+240,Golden Glades,2014-07-01,
+241,Richmond West,2014-07-01,1895.0
+242,Miami Lakes,2014-07-01,
+243,University Park,2014-07-01,
+244,The Crossings,2014-07-01,1650.0
+245,Hialeah Gardens,2014-07-01,
+246,Ives Estates,2014-07-01,
+247,Sunny Isles Beach,2014-07-01,
+248,Ojus,2014-07-01,
+249,Glenvar Heights,2014-07-01,1650.0
+250,Sunset,2014-07-01,
+251,Three Lakes,2014-07-01,1850.0
+252,Key Biscayne,2014-07-01,4500.0
+253,South Miami,2014-07-01,
+254,Country Walk,2014-07-01,
+255,North Bay Village,2014-07-01,2100.0
+256,Surfside,2014-07-01,2750.0
+257,Bay Harbor Islands,2014-07-01,1797.5
+258,Bal Harbour,2014-07-01,
+259,Miami,2014-08-01,2217.5
+260,Hialeah,2014-08-01,
+261,Miami Gardens,2014-08-01,1600.0
+262,Miami Beach,2014-08-01,2400.0
+263,Homestead,2014-08-01,1350.0
+264,Kendall,2014-08-01,1700.0
+265,Fountainbleau,2014-08-01,1500.0
+266,North Miami,2014-08-01,1450.0
+267,Kendale Lakes,2014-08-01,1500.0
+268,Tamiami,2014-08-01,2000.0
+269,The Hammocks,2014-08-01,1850.0
+270,Doral,2014-08-01,2050.0
+271,Coral Gables,2014-08-01,2675.0
+272,Country Club,2014-08-01,1350.0
+273,Cutler Bay,2014-08-01,1600.0
+274,North Miami Beach,2014-08-01,1600.0
+275,Kendall West,2014-08-01,1450.0
+276,Aventura,2014-08-01,2350.0
+277,Golden Glades,2014-08-01,
+278,Richmond West,2014-08-01,1950.0
+279,Miami Lakes,2014-08-01,
+280,University Park,2014-08-01,
+281,The Crossings,2014-08-01,1655.0
+282,Hialeah Gardens,2014-08-01,
+283,Ives Estates,2014-08-01,
+284,Sunny Isles Beach,2014-08-01,
+285,Ojus,2014-08-01,
+286,Glenvar Heights,2014-08-01,1782.5
+287,Sunset,2014-08-01,
+288,Three Lakes,2014-08-01,1850.0
+289,Key Biscayne,2014-08-01,4500.0
+290,South Miami,2014-08-01,
+291,Country Walk,2014-08-01,
+292,North Bay Village,2014-08-01,2196.0
+293,Surfside,2014-08-01,2925.0
+294,Bay Harbor Islands,2014-08-01,1772.5
+295,Bal Harbour,2014-08-01,
+296,Miami,2014-09-01,2200.0
+297,Hialeah,2014-09-01,
+298,Miami Gardens,2014-09-01,1600.0
+299,Miami Beach,2014-09-01,2300.0
+300,Homestead,2014-09-01,1350.0
+301,Kendall,2014-09-01,1750.0
+302,Fountainbleau,2014-09-01,1550.0
+303,North Miami,2014-09-01,1500.0
+304,Kendale Lakes,2014-09-01,1500.0
+305,Tamiami,2014-09-01,2000.0
+306,The Hammocks,2014-09-01,1850.0
+307,Doral,2014-09-01,2160.0
+308,Coral Gables,2014-09-01,2750.0
+309,Country Club,2014-09-01,1400.0
+310,Cutler Bay,2014-09-01,1650.0
+311,North Miami Beach,2014-09-01,1550.0
+312,Kendall West,2014-09-01,1462.5
+313,Aventura,2014-09-01,2300.0
+314,Golden Glades,2014-09-01,
+315,Richmond West,2014-09-01,1950.0
+316,Miami Lakes,2014-09-01,
+317,University Park,2014-09-01,
+318,The Crossings,2014-09-01,1800.0
+319,Hialeah Gardens,2014-09-01,
+320,Ives Estates,2014-09-01,
+321,Sunny Isles Beach,2014-09-01,
+322,Ojus,2014-09-01,
+323,Glenvar Heights,2014-09-01,1695.0
+324,Sunset,2014-09-01,
+325,Three Lakes,2014-09-01,1850.0
+326,Key Biscayne,2014-09-01,4500.0
+327,South Miami,2014-09-01,
+328,Country Walk,2014-09-01,
+329,North Bay Village,2014-09-01,2100.0
+330,Surfside,2014-09-01,2650.0
+331,Bay Harbor Islands,2014-09-01,1825.0
+332,Bal Harbour,2014-09-01,
+333,Miami,2014-10-01,2200.0
+334,Hialeah,2014-10-01,
+335,Miami Gardens,2014-10-01,1575.0
+336,Miami Beach,2014-10-01,2350.0
+337,Homestead,2014-10-01,1350.0
+338,Kendall,2014-10-01,1800.0
+339,Fountainbleau,2014-10-01,1600.0
+340,North Miami,2014-10-01,1450.0
+341,Kendale Lakes,2014-10-01,1475.0
+342,Tamiami,2014-10-01,2100.0
+343,The Hammocks,2014-10-01,1850.0
+344,Doral,2014-10-01,2200.0
+345,Coral Gables,2014-10-01,2900.0
+346,Country Club,2014-10-01,1400.0
+347,Cutler Bay,2014-10-01,1600.0
+348,North Miami Beach,2014-10-01,1600.0
+349,Kendall West,2014-10-01,1500.0
+350,Aventura,2014-10-01,2345.0
+351,Golden Glades,2014-10-01,
+352,Richmond West,2014-10-01,1950.0
+353,Miami Lakes,2014-10-01,
+354,University Park,2014-10-01,
+355,The Crossings,2014-10-01,1700.0
+356,Hialeah Gardens,2014-10-01,
+357,Ives Estates,2014-10-01,
+358,Sunny Isles Beach,2014-10-01,
+359,Ojus,2014-10-01,
+360,Glenvar Heights,2014-10-01,1672.5
+361,Sunset,2014-10-01,
+362,Three Lakes,2014-10-01,1800.0
+363,Key Biscayne,2014-10-01,5000.0
+364,South Miami,2014-10-01,
+365,Country Walk,2014-10-01,
+366,North Bay Village,2014-10-01,2200.0
+367,Surfside,2014-10-01,2900.0
+368,Bay Harbor Islands,2014-10-01,1850.0
+369,Bal Harbour,2014-10-01,
+370,Miami,2014-11-01,2200.0
+371,Hialeah,2014-11-01,
+372,Miami Gardens,2014-11-01,1550.0
+373,Miami Beach,2014-11-01,2450.0
+374,Homestead,2014-11-01,1310.0
+375,Kendall,2014-11-01,1775.0
+376,Fountainbleau,2014-11-01,1550.0
+377,North Miami,2014-11-01,1500.0
+378,Kendale Lakes,2014-11-01,1500.0
+379,Tamiami,2014-11-01,2150.0
+380,The Hammocks,2014-11-01,1850.0
+381,Doral,2014-11-01,2200.0
+382,Coral Gables,2014-11-01,2800.0
+383,Country Club,2014-11-01,1400.0
+384,Cutler Bay,2014-11-01,1600.0
+385,North Miami Beach,2014-11-01,1600.0
+386,Kendall West,2014-11-01,1550.0
+387,Aventura,2014-11-01,2400.0
+388,Golden Glades,2014-11-01,
+389,Richmond West,2014-11-01,1900.0
+390,Miami Lakes,2014-11-01,
+391,University Park,2014-11-01,
+392,The Crossings,2014-11-01,1600.0
+393,Hialeah Gardens,2014-11-01,
+394,Ives Estates,2014-11-01,
+395,Sunny Isles Beach,2014-11-01,
+396,Ojus,2014-11-01,
+397,Glenvar Heights,2014-11-01,1695.0
+398,Sunset,2014-11-01,
+399,Three Lakes,2014-11-01,1800.0
+400,Key Biscayne,2014-11-01,5000.0
+401,South Miami,2014-11-01,
+402,Country Walk,2014-11-01,
+403,North Bay Village,2014-11-01,2200.0
+404,Surfside,2014-11-01,3000.0
+405,Bay Harbor Islands,2014-11-01,1950.0
+406,Bal Harbour,2014-11-01,
+407,Miami,2014-12-01,2150.0
+408,Hialeah,2014-12-01,
+409,Miami Gardens,2014-12-01,1500.0
+410,Miami Beach,2014-12-01,2400.0
+411,Homestead,2014-12-01,1350.0
+412,Kendall,2014-12-01,1800.0
+413,Fountainbleau,2014-12-01,1650.0
+414,North Miami,2014-12-01,1450.0
+415,Kendale Lakes,2014-12-01,1500.0
+416,Tamiami,2014-12-01,2200.0
+417,The Hammocks,2014-12-01,1800.0
+418,Doral,2014-12-01,2200.0
+419,Coral Gables,2014-12-01,2750.0
+420,Country Club,2014-12-01,1400.0
+421,Cutler Bay,2014-12-01,1575.0
+422,North Miami Beach,2014-12-01,1550.0
+423,Kendall West,2014-12-01,1490.0
+424,Aventura,2014-12-01,2350.0
+425,Golden Glades,2014-12-01,
+426,Richmond West,2014-12-01,1900.0
+427,Miami Lakes,2014-12-01,
+428,University Park,2014-12-01,
+429,The Crossings,2014-12-01,1595.0
+430,Hialeah Gardens,2014-12-01,
+431,Ives Estates,2014-12-01,
+432,Sunny Isles Beach,2014-12-01,
+433,Ojus,2014-12-01,
+434,Glenvar Heights,2014-12-01,1700.0
+435,Sunset,2014-12-01,
+436,Three Lakes,2014-12-01,1800.0
+437,Key Biscayne,2014-12-01,5100.0
+438,South Miami,2014-12-01,
+439,Country Walk,2014-12-01,
+440,North Bay Village,2014-12-01,1975.0
+441,Surfside,2014-12-01,3000.0
+442,Bay Harbor Islands,2014-12-01,1900.0
+443,Bal Harbour,2014-12-01,
+444,Miami,2015-01-01,2100.0
+445,Hialeah,2015-01-01,
+446,Miami Gardens,2015-01-01,1500.0
+447,Miami Beach,2015-01-01,2400.0
+448,Homestead,2015-01-01,1350.0
+449,Kendall,2015-01-01,1795.0
+450,Fountainbleau,2015-01-01,1550.0
+451,North Miami,2015-01-01,1450.0
+452,Kendale Lakes,2015-01-01,1550.0
+453,Tamiami,2015-01-01,2275.0
+454,The Hammocks,2015-01-01,1800.0
+455,Doral,2015-01-01,2200.0
+456,Coral Gables,2015-01-01,2797.5
+457,Country Club,2015-01-01,1400.0
+458,Cutler Bay,2015-01-01,1575.0
+459,North Miami Beach,2015-01-01,1500.0
+460,Kendall West,2015-01-01,1450.0
+461,Aventura,2015-01-01,2400.0
+462,Golden Glades,2015-01-01,
+463,Richmond West,2015-01-01,1850.0
+464,Miami Lakes,2015-01-01,
+465,University Park,2015-01-01,
+466,The Crossings,2015-01-01,1600.0
+467,Hialeah Gardens,2015-01-01,
+468,Ives Estates,2015-01-01,
+469,Sunny Isles Beach,2015-01-01,
+470,Ojus,2015-01-01,
+471,Glenvar Heights,2015-01-01,1800.0
+472,Sunset,2015-01-01,
+473,Three Lakes,2015-01-01,1800.0
+474,Key Biscayne,2015-01-01,5500.0
+475,South Miami,2015-01-01,
+476,Country Walk,2015-01-01,
+477,North Bay Village,2015-01-01,2100.0
+478,Surfside,2015-01-01,3000.0
+479,Bay Harbor Islands,2015-01-01,1950.0
+480,Bal Harbour,2015-01-01,
+481,Miami,2015-02-01,2200.0
+482,Hialeah,2015-02-01,
+483,Miami Gardens,2015-02-01,1500.0
+484,Miami Beach,2015-02-01,2500.0
+485,Homestead,2015-02-01,1350.0
+486,Kendall,2015-02-01,1850.0
+487,Fountainbleau,2015-02-01,1550.0
+488,North Miami,2015-02-01,1400.0
+489,Kendale Lakes,2015-02-01,1575.0
+490,Tamiami,2015-02-01,2350.0
+491,The Hammocks,2015-02-01,1850.0
+492,Doral,2015-02-01,2300.0
+493,Coral Gables,2015-02-01,2750.0
+494,Country Club,2015-02-01,1400.0
+495,Cutler Bay,2015-02-01,1600.0
+496,North Miami Beach,2015-02-01,1600.0
+497,Kendall West,2015-02-01,1450.0
+498,Aventura,2015-02-01,2300.0
+499,Golden Glades,2015-02-01,
+500,Richmond West,2015-02-01,1900.0
+501,Miami Lakes,2015-02-01,
+502,University Park,2015-02-01,
+503,The Crossings,2015-02-01,1600.0
+504,Hialeah Gardens,2015-02-01,
+505,Ives Estates,2015-02-01,
+506,Sunny Isles Beach,2015-02-01,
+507,Ojus,2015-02-01,
+508,Glenvar Heights,2015-02-01,1550.0
+509,Sunset,2015-02-01,
+510,Three Lakes,2015-02-01,1850.0
+511,Key Biscayne,2015-02-01,5550.0
+512,South Miami,2015-02-01,
+513,Country Walk,2015-02-01,
+514,North Bay Village,2015-02-01,2150.0
+515,Surfside,2015-02-01,3100.0
+516,Bay Harbor Islands,2015-02-01,1950.0
+517,Bal Harbour,2015-02-01,
+518,Miami,2015-03-01,2300.0
+519,Hialeah,2015-03-01,
+520,Miami Gardens,2015-03-01,1600.0
+521,Miami Beach,2015-03-01,2500.0
+522,Homestead,2015-03-01,1400.0
+523,Kendall,2015-03-01,1800.0
+524,Fountainbleau,2015-03-01,1600.0
+525,North Miami,2015-03-01,1500.0
+526,Kendale Lakes,2015-03-01,1550.0
+527,Tamiami,2015-03-01,2200.0
+528,The Hammocks,2015-03-01,1850.0
+529,Doral,2015-03-01,2300.0
+530,Coral Gables,2015-03-01,2700.0
+531,Country Club,2015-03-01,1494.5
+532,Cutler Bay,2015-03-01,1700.0
+533,North Miami Beach,2015-03-01,1650.0
+534,Kendall West,2015-03-01,1500.0
+535,Aventura,2015-03-01,2400.0
+536,Golden Glades,2015-03-01,
+537,Richmond West,2015-03-01,1850.0
+538,Miami Lakes,2015-03-01,
+539,University Park,2015-03-01,
+540,The Crossings,2015-03-01,1600.0
+541,Hialeah Gardens,2015-03-01,
+542,Ives Estates,2015-03-01,
+543,Sunny Isles Beach,2015-03-01,
+544,Ojus,2015-03-01,
+545,Glenvar Heights,2015-03-01,1727.5
+546,Sunset,2015-03-01,
+547,Three Lakes,2015-03-01,1850.0
+548,Key Biscayne,2015-03-01,5962.5
+549,South Miami,2015-03-01,
+550,Country Walk,2015-03-01,
+551,North Bay Village,2015-03-01,2100.0
+552,Surfside,2015-03-01,3100.0
+553,Bay Harbor Islands,2015-03-01,2100.0
+554,Bal Harbour,2015-03-01,
+555,Miami,2015-04-01,2400.0
+556,Hialeah,2015-04-01,
+557,Miami Gardens,2015-04-01,1689.0
+558,Miami Beach,2015-04-01,2600.0
+559,Homestead,2015-04-01,1400.0
+560,Kendall,2015-04-01,1800.0
+561,Fountainbleau,2015-04-01,1600.0
+562,North Miami,2015-04-01,1649.5
+563,Kendale Lakes,2015-04-01,1550.0
+564,Tamiami,2015-04-01,2200.0
+565,The Hammocks,2015-04-01,1900.0
+566,Doral,2015-04-01,2300.0
+567,Coral Gables,2015-04-01,2950.0
+568,Country Club,2015-04-01,1485.0
+569,Cutler Bay,2015-04-01,1777.5
+570,North Miami Beach,2015-04-01,1650.0
+571,Kendall West,2015-04-01,1600.0
+572,Aventura,2015-04-01,2350.0
+573,Golden Glades,2015-04-01,
+574,Richmond West,2015-04-01,1900.0
+575,Miami Lakes,2015-04-01,
+576,University Park,2015-04-01,
+577,The Crossings,2015-04-01,1650.0
+578,Hialeah Gardens,2015-04-01,
+579,Ives Estates,2015-04-01,
+580,Sunny Isles Beach,2015-04-01,
+581,Ojus,2015-04-01,
+582,Glenvar Heights,2015-04-01,1850.0
+583,Sunset,2015-04-01,
+584,Three Lakes,2015-04-01,1850.0
+585,Key Biscayne,2015-04-01,6100.0
+586,South Miami,2015-04-01,
+587,Country Walk,2015-04-01,
+588,North Bay Village,2015-04-01,2100.0
+589,Surfside,2015-04-01,3050.0
+590,Bay Harbor Islands,2015-04-01,2000.0
+591,Bal Harbour,2015-04-01,
+592,Miami,2015-05-01,2400.0
+593,Hialeah,2015-05-01,
+594,Miami Gardens,2015-05-01,1650.0
+595,Miami Beach,2015-05-01,2500.0
+596,Homestead,2015-05-01,1399.5
+597,Kendall,2015-05-01,1800.0
+598,Fountainbleau,2015-05-01,1600.0
+599,North Miami,2015-05-01,1600.0
+600,Kendale Lakes,2015-05-01,1550.0
+601,Tamiami,2015-05-01,2150.0
+602,The Hammocks,2015-05-01,1850.0
+603,Doral,2015-05-01,2300.0
+604,Coral Gables,2015-05-01,2750.0
+605,Country Club,2015-05-01,1500.0
+606,Cutler Bay,2015-05-01,1750.0
+607,North Miami Beach,2015-05-01,1600.0
+608,Kendall West,2015-05-01,1600.0
+609,Aventura,2015-05-01,2450.0
+610,Golden Glades,2015-05-01,
+611,Richmond West,2015-05-01,1887.5
+612,Miami Lakes,2015-05-01,
+613,University Park,2015-05-01,
+614,The Crossings,2015-05-01,1650.0
+615,Hialeah Gardens,2015-05-01,
+616,Ives Estates,2015-05-01,
+617,Sunny Isles Beach,2015-05-01,
+618,Ojus,2015-05-01,
+619,Glenvar Heights,2015-05-01,1875.0
+620,Sunset,2015-05-01,
+621,Three Lakes,2015-05-01,1900.0
+622,Key Biscayne,2015-05-01,6000.0
+623,South Miami,2015-05-01,
+624,Country Walk,2015-05-01,
+625,North Bay Village,2015-05-01,2200.0
+626,Surfside,2015-05-01,3000.0
+627,Bay Harbor Islands,2015-05-01,2000.0
+628,Bal Harbour,2015-05-01,
+629,Miami,2015-06-01,2449.5
+630,Hialeah,2015-06-01,
+631,Miami Gardens,2015-06-01,1650.0
+632,Miami Beach,2015-06-01,2500.0
+633,Homestead,2015-06-01,1375.0
+634,Kendall,2015-06-01,1800.0
+635,Fountainbleau,2015-06-01,1600.0
+636,North Miami,2015-06-01,1550.0
+637,Kendale Lakes,2015-06-01,1500.0
+638,Tamiami,2015-06-01,2000.0
+639,The Hammocks,2015-06-01,1850.0
+640,Doral,2015-06-01,2262.5
+641,Coral Gables,2015-06-01,2929.5
+642,Country Club,2015-06-01,1499.0
+643,Cutler Bay,2015-06-01,1750.0
+644,North Miami Beach,2015-06-01,1600.0
+645,Kendall West,2015-06-01,1500.0
+646,Aventura,2015-06-01,2499.0
+647,Golden Glades,2015-06-01,
+648,Richmond West,2015-06-01,1950.0
+649,Miami Lakes,2015-06-01,
+650,University Park,2015-06-01,
+651,The Crossings,2015-06-01,1695.0
+652,Hialeah Gardens,2015-06-01,
+653,Ives Estates,2015-06-01,
+654,Sunny Isles Beach,2015-06-01,
+655,Ojus,2015-06-01,
+656,Glenvar Heights,2015-06-01,1837.5
+657,Sunset,2015-06-01,
+658,Three Lakes,2015-06-01,1900.0
+659,Key Biscayne,2015-06-01,6000.0
+660,South Miami,2015-06-01,
+661,Country Walk,2015-06-01,
+662,North Bay Village,2015-06-01,2250.0
+663,Surfside,2015-06-01,3000.0
+664,Bay Harbor Islands,2015-06-01,2000.0
+665,Bal Harbour,2015-06-01,
+666,Miami,2015-07-01,2495.0
+667,Hialeah,2015-07-01,
+668,Miami Gardens,2015-07-01,1672.0
+669,Miami Beach,2015-07-01,2500.0
+670,Homestead,2015-07-01,1400.0
+671,Kendall,2015-07-01,1800.0
+672,Fountainbleau,2015-07-01,1600.0
+673,North Miami,2015-07-01,1559.5
+674,Kendale Lakes,2015-07-01,1600.0
+675,Tamiami,2015-07-01,2000.0
+676,The Hammocks,2015-07-01,1850.0
+677,Doral,2015-07-01,2300.0
+678,Coral Gables,2015-07-01,2950.0
+679,Country Club,2015-07-01,1550.0
+680,Cutler Bay,2015-07-01,1705.0
+681,North Miami Beach,2015-07-01,1650.0
+682,Kendall West,2015-07-01,1525.0
+683,Aventura,2015-07-01,2500.0
+684,Golden Glades,2015-07-01,
+685,Richmond West,2015-07-01,1900.0
+686,Miami Lakes,2015-07-01,
+687,University Park,2015-07-01,
+688,The Crossings,2015-07-01,1699.5
+689,Hialeah Gardens,2015-07-01,
+690,Ives Estates,2015-07-01,
+691,Sunny Isles Beach,2015-07-01,
+692,Ojus,2015-07-01,
+693,Glenvar Heights,2015-07-01,1850.0
+694,Sunset,2015-07-01,
+695,Three Lakes,2015-07-01,1912.5
+696,Key Biscayne,2015-07-01,5500.0
+697,South Miami,2015-07-01,
+698,Country Walk,2015-07-01,
+699,North Bay Village,2015-07-01,2300.0
+700,Surfside,2015-07-01,3237.5
+701,Bay Harbor Islands,2015-07-01,1995.0
+702,Bal Harbour,2015-07-01,
+703,Miami,2015-08-01,2500.0
+704,Hialeah,2015-08-01,
+705,Miami Gardens,2015-08-01,1675.0
+706,Miami Beach,2015-08-01,2500.0
+707,Homestead,2015-08-01,1400.0
+708,Kendall,2015-08-01,1825.0
+709,Fountainbleau,2015-08-01,1600.0
+710,North Miami,2015-08-01,1600.0
+711,Kendale Lakes,2015-08-01,1600.0
+712,Tamiami,2015-08-01,2025.0
+713,The Hammocks,2015-08-01,1850.0
+714,Doral,2015-08-01,2250.0
+715,Coral Gables,2015-08-01,2750.0
+716,Country Club,2015-08-01,1550.0
+717,Cutler Bay,2015-08-01,1700.0
+718,North Miami Beach,2015-08-01,1605.0
+719,Kendall West,2015-08-01,1500.0
+720,Aventura,2015-08-01,2510.0
+721,Golden Glades,2015-08-01,
+722,Richmond West,2015-08-01,2000.0
+723,Miami Lakes,2015-08-01,
+724,University Park,2015-08-01,
+725,The Crossings,2015-08-01,1725.0
+726,Hialeah Gardens,2015-08-01,
+727,Ives Estates,2015-08-01,
+728,Sunny Isles Beach,2015-08-01,
+729,Ojus,2015-08-01,
+730,Glenvar Heights,2015-08-01,1800.0
+731,Sunset,2015-08-01,
+732,Three Lakes,2015-08-01,1900.0
+733,Key Biscayne,2015-08-01,5500.0
+734,South Miami,2015-08-01,
+735,Country Walk,2015-08-01,
+736,North Bay Village,2015-08-01,2300.0
+737,Surfside,2015-08-01,3145.0
+738,Bay Harbor Islands,2015-08-01,1905.0
+739,Bal Harbour,2015-08-01,
+740,Miami,2015-09-01,2450.0
+741,Hialeah,2015-09-01,
+742,Miami Gardens,2015-09-01,1650.0
+743,Miami Beach,2015-09-01,2400.0
+744,Homestead,2015-09-01,1400.0
+745,Kendall,2015-09-01,1800.0
+746,Fountainbleau,2015-09-01,1600.0
+747,North Miami,2015-09-01,1550.0
+748,Kendale Lakes,2015-09-01,1600.0
+749,Tamiami,2015-09-01,2000.0
+750,The Hammocks,2015-09-01,1850.0
+751,Doral,2015-09-01,2200.0
+752,Coral Gables,2015-09-01,2800.0
+753,Country Club,2015-09-01,1477.5
+754,Cutler Bay,2015-09-01,1750.0
+755,North Miami Beach,2015-09-01,1600.0
+756,Kendall West,2015-09-01,1500.0
+757,Aventura,2015-09-01,2500.0
+758,Golden Glades,2015-09-01,
+759,Richmond West,2015-09-01,1995.0
+760,Miami Lakes,2015-09-01,
+761,University Park,2015-09-01,
+762,The Crossings,2015-09-01,1699.5
+763,Hialeah Gardens,2015-09-01,
+764,Ives Estates,2015-09-01,
+765,Sunny Isles Beach,2015-09-01,
+766,Ojus,2015-09-01,
+767,Glenvar Heights,2015-09-01,1750.0
+768,Sunset,2015-09-01,
+769,Three Lakes,2015-09-01,1900.0
+770,Key Biscayne,2015-09-01,5500.0
+771,South Miami,2015-09-01,
+772,Country Walk,2015-09-01,
+773,North Bay Village,2015-09-01,2200.0
+774,Surfside,2015-09-01,3190.0
+775,Bay Harbor Islands,2015-09-01,2200.0
+776,Bal Harbour,2015-09-01,
+777,Miami,2015-10-01,2400.0
+778,Hialeah,2015-10-01,
+779,Miami Gardens,2015-10-01,1672.5
+780,Miami Beach,2015-10-01,2450.0
+781,Homestead,2015-10-01,1400.0
+782,Kendall,2015-10-01,1797.0
+783,Fountainbleau,2015-10-01,1600.0
+784,North Miami,2015-10-01,1550.0
+785,Kendale Lakes,2015-10-01,1597.5
+786,Tamiami,2015-10-01,2200.0
+787,The Hammocks,2015-10-01,1900.0
+788,Doral,2015-10-01,2200.0
+789,Coral Gables,2015-10-01,2800.0
+790,Country Club,2015-10-01,1490.0
+791,Cutler Bay,2015-10-01,1750.0
+792,North Miami Beach,2015-10-01,1650.0
+793,Kendall West,2015-10-01,1500.0
+794,Aventura,2015-10-01,2500.0
+795,Golden Glades,2015-10-01,
+796,Richmond West,2015-10-01,1997.5
+797,Miami Lakes,2015-10-01,
+798,University Park,2015-10-01,
+799,The Crossings,2015-10-01,1650.0
+800,Hialeah Gardens,2015-10-01,
+801,Ives Estates,2015-10-01,
+802,Sunny Isles Beach,2015-10-01,
+803,Ojus,2015-10-01,
+804,Glenvar Heights,2015-10-01,1700.0
+805,Sunset,2015-10-01,
+806,Three Lakes,2015-10-01,1900.0
+807,Key Biscayne,2015-10-01,5500.0
+808,South Miami,2015-10-01,
+809,Country Walk,2015-10-01,
+810,North Bay Village,2015-10-01,2200.0
+811,Surfside,2015-10-01,3200.0
+812,Bay Harbor Islands,2015-10-01,2200.0
+813,Bal Harbour,2015-10-01,
+814,Miami,2015-11-01,2400.0
+815,Hialeah,2015-11-01,
+816,Miami Gardens,2015-11-01,1650.0
+817,Miami Beach,2015-11-01,2500.0
+818,Homestead,2015-11-01,1400.0
+819,Kendall,2015-11-01,1785.0
+820,Fountainbleau,2015-11-01,1650.0
+821,North Miami,2015-11-01,1600.0
+822,Kendale Lakes,2015-11-01,1600.0
+823,Tamiami,2015-11-01,2250.0
+824,The Hammocks,2015-11-01,1950.0
+825,Doral,2015-11-01,2400.0
+826,Coral Gables,2015-11-01,2800.0
+827,Country Club,2015-11-01,1499.5
+828,Cutler Bay,2015-11-01,1750.0
+829,North Miami Beach,2015-11-01,1650.0
+830,Kendall West,2015-11-01,1600.0
+831,Aventura,2015-11-01,2400.0
+832,Golden Glades,2015-11-01,
+833,Richmond West,2015-11-01,1950.0
+834,Miami Lakes,2015-11-01,
+835,University Park,2015-11-01,
+836,The Crossings,2015-11-01,1700.0
+837,Hialeah Gardens,2015-11-01,
+838,Ives Estates,2015-11-01,
+839,Sunny Isles Beach,2015-11-01,
+840,Ojus,2015-11-01,
+841,Glenvar Heights,2015-11-01,1697.5
+842,Sunset,2015-11-01,
+843,Three Lakes,2015-11-01,1925.0
+844,Key Biscayne,2015-11-01,5500.0
+845,South Miami,2015-11-01,
+846,Country Walk,2015-11-01,
+847,North Bay Village,2015-11-01,2200.0
+848,Surfside,2015-11-01,3100.0
+849,Bay Harbor Islands,2015-11-01,2000.0
+850,Bal Harbour,2015-11-01,
+851,Miami,2015-12-01,2475.0
+852,Hialeah,2015-12-01,
+853,Miami Gardens,2015-12-01,1650.0
+854,Miami Beach,2015-12-01,2500.0
+855,Homestead,2015-12-01,1400.0
+856,Kendall,2015-12-01,1750.0
+857,Fountainbleau,2015-12-01,1650.0
+858,North Miami,2015-12-01,1600.0
+859,Kendale Lakes,2015-12-01,1575.0
+860,Tamiami,2015-12-01,2275.0
+861,The Hammocks,2015-12-01,1950.0
+862,Doral,2015-12-01,2450.0
+863,Coral Gables,2015-12-01,2800.0
+864,Country Club,2015-12-01,1450.0
+865,Cutler Bay,2015-12-01,1725.0
+866,North Miami Beach,2015-12-01,1700.0
+867,Kendall West,2015-12-01,1500.0
+868,Aventura,2015-12-01,2300.0
+869,Golden Glades,2015-12-01,
+870,Richmond West,2015-12-01,1975.0
+871,Miami Lakes,2015-12-01,
+872,University Park,2015-12-01,
+873,The Crossings,2015-12-01,1700.0
+874,Hialeah Gardens,2015-12-01,
+875,Ives Estates,2015-12-01,
+876,Sunny Isles Beach,2015-12-01,
+877,Ojus,2015-12-01,
+878,Glenvar Heights,2015-12-01,1700.0
+879,Sunset,2015-12-01,
+880,Three Lakes,2015-12-01,1995.0
+881,Key Biscayne,2015-12-01,5500.0
+882,South Miami,2015-12-01,
+883,Country Walk,2015-12-01,
+884,North Bay Village,2015-12-01,2100.0
+885,Surfside,2015-12-01,3200.0
+886,Bay Harbor Islands,2015-12-01,2050.0
+887,Bal Harbour,2015-12-01,
+888,Miami,2016-01-01,2450.0
+889,Hialeah,2016-01-01,
+890,Miami Gardens,2016-01-01,1695.0
+891,Miami Beach,2016-01-01,2500.0
+892,Homestead,2016-01-01,1450.0
+893,Kendall,2016-01-01,1775.0
+894,Fountainbleau,2016-01-01,1600.0
+895,North Miami,2016-01-01,1600.0
+896,Kendale Lakes,2016-01-01,1562.5
+897,Tamiami,2016-01-01,2275.0
+898,The Hammocks,2016-01-01,1950.0
+899,Doral,2016-01-01,2450.0
+900,Coral Gables,2016-01-01,2900.0
+901,Country Club,2016-01-01,1450.0
+902,Cutler Bay,2016-01-01,1750.0
+903,North Miami Beach,2016-01-01,1700.0
+904,Kendall West,2016-01-01,1550.0
+905,Aventura,2016-01-01,2400.0
+906,Golden Glades,2016-01-01,
+907,Richmond West,2016-01-01,1950.0
+908,Miami Lakes,2016-01-01,
+909,University Park,2016-01-01,
+910,The Crossings,2016-01-01,1700.0
+911,Hialeah Gardens,2016-01-01,
+912,Ives Estates,2016-01-01,
+913,Sunny Isles Beach,2016-01-01,
+914,Ojus,2016-01-01,
+915,Glenvar Heights,2016-01-01,1600.0
+916,Sunset,2016-01-01,
+917,Three Lakes,2016-01-01,1995.0
+918,Key Biscayne,2016-01-01,5500.0
+919,South Miami,2016-01-01,
+920,Country Walk,2016-01-01,
+921,North Bay Village,2016-01-01,2175.0
+922,Surfside,2016-01-01,3345.0
+923,Bay Harbor Islands,2016-01-01,2000.0
+924,Bal Harbour,2016-01-01,
+925,Miami,2016-02-01,2450.0
+926,Hialeah,2016-02-01,
+927,Miami Gardens,2016-02-01,1750.0
+928,Miami Beach,2016-02-01,2600.0
+929,Homestead,2016-02-01,1500.0
+930,Kendall,2016-02-01,1800.0
+931,Fountainbleau,2016-02-01,1600.0
+932,North Miami,2016-02-01,1730.0
+933,Kendale Lakes,2016-02-01,1592.5
+934,Tamiami,2016-02-01,2285.0
+935,The Hammocks,2016-02-01,1950.0
+936,Doral,2016-02-01,2400.0
+937,Coral Gables,2016-02-01,2772.5
+938,Country Club,2016-02-01,1450.0
+939,Cutler Bay,2016-02-01,1700.0
+940,North Miami Beach,2016-02-01,1750.0
+941,Kendall West,2016-02-01,1550.0
+942,Aventura,2016-02-01,2500.0
+943,Golden Glades,2016-02-01,
+944,Richmond West,2016-02-01,1950.0
+945,Miami Lakes,2016-02-01,
+946,University Park,2016-02-01,
+947,The Crossings,2016-02-01,1700.0
+948,Hialeah Gardens,2016-02-01,
+949,Ives Estates,2016-02-01,
+950,Sunny Isles Beach,2016-02-01,
+951,Ojus,2016-02-01,
+952,Glenvar Heights,2016-02-01,1700.0
+953,Sunset,2016-02-01,
+954,Three Lakes,2016-02-01,1995.0
+955,Key Biscayne,2016-02-01,5200.0
+956,South Miami,2016-02-01,
+957,Country Walk,2016-02-01,
+958,North Bay Village,2016-02-01,2200.0
+959,Surfside,2016-02-01,3200.0
+960,Bay Harbor Islands,2016-02-01,2000.0
+961,Bal Harbour,2016-02-01,
+962,Miami,2016-03-01,2499.0
+963,Hialeah,2016-03-01,
+964,Miami Gardens,2016-03-01,1750.0
+965,Miami Beach,2016-03-01,2600.0
+966,Homestead,2016-03-01,1500.0
+967,Kendall,2016-03-01,1800.0
+968,Fountainbleau,2016-03-01,1600.0
+969,North Miami,2016-03-01,1750.0
+970,Kendale Lakes,2016-03-01,1597.5
+971,Tamiami,2016-03-01,2300.0
+972,The Hammocks,2016-03-01,1950.0
+973,Doral,2016-03-01,2400.0
+974,Coral Gables,2016-03-01,2800.0
+975,Country Club,2016-03-01,1499.5
+976,Cutler Bay,2016-03-01,1797.5
+977,North Miami Beach,2016-03-01,1750.0
+978,Kendall West,2016-03-01,1590.0
+979,Aventura,2016-03-01,2550.0
+980,Golden Glades,2016-03-01,
+981,Richmond West,2016-03-01,1999.0
+982,Miami Lakes,2016-03-01,
+983,University Park,2016-03-01,
+984,The Crossings,2016-03-01,1750.0
+985,Hialeah Gardens,2016-03-01,
+986,Ives Estates,2016-03-01,
+987,Sunny Isles Beach,2016-03-01,
+988,Ojus,2016-03-01,
+989,Glenvar Heights,2016-03-01,1700.0
+990,Sunset,2016-03-01,
+991,Three Lakes,2016-03-01,1950.0
+992,Key Biscayne,2016-03-01,5200.0
+993,South Miami,2016-03-01,
+994,Country Walk,2016-03-01,
+995,North Bay Village,2016-03-01,2200.0
+996,Surfside,2016-03-01,3200.0
+997,Bay Harbor Islands,2016-03-01,2000.0
+998,Bal Harbour,2016-03-01,
+999,Miami,2016-04-01,2450.0
+1000,Hialeah,2016-04-01,
+1001,Miami Gardens,2016-04-01,1749.5
+1002,Miami Beach,2016-04-01,2500.0
+1003,Homestead,2016-04-01,1450.0
+1004,Kendall,2016-04-01,1795.0
+1005,Fountainbleau,2016-04-01,1600.0
+1006,North Miami,2016-04-01,1600.0
+1007,Kendale Lakes,2016-04-01,1575.0
+1008,Tamiami,2016-04-01,2200.0
+1009,The Hammocks,2016-04-01,1950.0
+1010,Doral,2016-04-01,2200.0
+1011,Coral Gables,2016-04-01,2875.0
+1012,Country Club,2016-04-01,1475.0
+1013,Cutler Bay,2016-04-01,1695.0
+1014,North Miami Beach,2016-04-01,1700.0
+1015,Kendall West,2016-04-01,1637.5
+1016,Aventura,2016-04-01,2500.0
+1017,Golden Glades,2016-04-01,
+1018,Richmond West,2016-04-01,2000.0
+1019,Miami Lakes,2016-04-01,
+1020,University Park,2016-04-01,
+1021,The Crossings,2016-04-01,1700.0
+1022,Hialeah Gardens,2016-04-01,
+1023,Ives Estates,2016-04-01,
+1024,Sunny Isles Beach,2016-04-01,
+1025,Ojus,2016-04-01,
+1026,Glenvar Heights,2016-04-01,1675.0
+1027,Sunset,2016-04-01,
+1028,Three Lakes,2016-04-01,1950.0
+1029,Key Biscayne,2016-04-01,5000.0
+1030,South Miami,2016-04-01,
+1031,Country Walk,2016-04-01,
+1032,North Bay Village,2016-04-01,2200.0
+1033,Surfside,2016-04-01,3000.0
+1034,Bay Harbor Islands,2016-04-01,1825.0
+1035,Bal Harbour,2016-04-01,
+1036,Miami,2016-05-01,2390.0
+1037,Hialeah,2016-05-01,
+1038,Miami Gardens,2016-05-01,1750.0
+1039,Miami Beach,2016-05-01,2500.0
+1040,Homestead,2016-05-01,1400.0
+1041,Kendall,2016-05-01,1700.0
+1042,Fountainbleau,2016-05-01,1600.0
+1043,North Miami,2016-05-01,1500.0
+1044,Kendale Lakes,2016-05-01,1550.0
+1045,Tamiami,2016-05-01,2100.0
+1046,The Hammocks,2016-05-01,1950.0
+1047,Doral,2016-05-01,2350.0
+1048,Coral Gables,2016-05-01,2800.0
+1049,Country Club,2016-05-01,1494.5
+1050,Cutler Bay,2016-05-01,1800.0
+1051,North Miami Beach,2016-05-01,1700.0
+1052,Kendall West,2016-05-01,1550.0
+1053,Aventura,2016-05-01,2450.0
+1054,Golden Glades,2016-05-01,
+1055,Richmond West,2016-05-01,2000.0
+1056,Miami Lakes,2016-05-01,
+1057,University Park,2016-05-01,
+1058,The Crossings,2016-05-01,1700.0
+1059,Hialeah Gardens,2016-05-01,
+1060,Ives Estates,2016-05-01,
+1061,Sunny Isles Beach,2016-05-01,
+1062,Ojus,2016-05-01,
+1063,Glenvar Heights,2016-05-01,1650.0
+1064,Sunset,2016-05-01,
+1065,Three Lakes,2016-05-01,1925.0
+1066,Key Biscayne,2016-05-01,5000.0
+1067,South Miami,2016-05-01,
+1068,Country Walk,2016-05-01,
+1069,North Bay Village,2016-05-01,2050.0
+1070,Surfside,2016-05-01,3050.0
+1071,Bay Harbor Islands,2016-05-01,1850.0
+1072,Bal Harbour,2016-05-01,
+1073,Miami,2016-06-01,2399.5
+1074,Hialeah,2016-06-01,1850.0
+1075,Miami Gardens,2016-06-01,1775.0
+1076,Miami Beach,2016-06-01,2400.0
+1077,Homestead,2016-06-01,1400.0
+1078,Kendall,2016-06-01,1850.0
+1079,Fountainbleau,2016-06-01,1550.0
+1080,North Miami,2016-06-01,1500.0
+1081,Kendale Lakes,2016-06-01,1600.0
+1082,Tamiami,2016-06-01,2200.0
+1083,The Hammocks,2016-06-01,1900.0
+1084,Doral,2016-06-01,2200.0
+1085,Coral Gables,2016-06-01,2900.0
+1086,Country Club,2016-06-01,1550.0
+1087,Cutler Bay,2016-06-01,1767.5
+1088,North Miami Beach,2016-06-01,1600.0
+1089,Kendall West,2016-06-01,1580.0
+1090,Aventura,2016-06-01,2500.0
+1091,Golden Glades,2016-06-01,1400.0
+1092,Richmond West,2016-06-01,2000.0
+1093,Miami Lakes,2016-06-01,2200.0
+1094,University Park,2016-06-01,
+1095,The Crossings,2016-06-01,1750.0
+1096,Hialeah Gardens,2016-06-01,
+1097,Ives Estates,2016-06-01,
+1098,Sunny Isles Beach,2016-06-01,
+1099,Ojus,2016-06-01,
+1100,Glenvar Heights,2016-06-01,1850.0
+1101,Sunset,2016-06-01,
+1102,Three Lakes,2016-06-01,1900.0
+1103,Key Biscayne,2016-06-01,5200.0
+1104,South Miami,2016-06-01,
+1105,Country Walk,2016-06-01,
+1106,North Bay Village,2016-06-01,2000.0
+1107,Surfside,2016-06-01,3100.0
+1108,Bay Harbor Islands,2016-06-01,1850.0
+1109,Bal Harbour,2016-06-01,
+1110,Miami,2016-07-01,2300.0
+1111,Hialeah,2016-07-01,1800.0
+1112,Miami Gardens,2016-07-01,1700.0
+1113,Miami Beach,2016-07-01,2400.0
+1114,Homestead,2016-07-01,1450.0
+1115,Kendall,2016-07-01,1750.0
+1116,Fountainbleau,2016-07-01,1550.0
+1117,North Miami,2016-07-01,1435.0
+1118,Kendale Lakes,2016-07-01,1590.0
+1119,Tamiami,2016-07-01,1950.0
+1120,The Hammocks,2016-07-01,1900.0
+1121,Doral,2016-07-01,2292.5
+1122,Coral Gables,2016-07-01,2600.0
+1123,Country Club,2016-07-01,1500.0
+1124,Cutler Bay,2016-07-01,1800.0
+1125,North Miami Beach,2016-07-01,1620.0
+1126,Kendall West,2016-07-01,1625.0
+1127,Aventura,2016-07-01,2500.0
+1128,Golden Glades,2016-07-01,1350.0
+1129,Richmond West,2016-07-01,2000.0
+1130,Miami Lakes,2016-07-01,2200.0
+1131,University Park,2016-07-01,
+1132,The Crossings,2016-07-01,1650.0
+1133,Hialeah Gardens,2016-07-01,
+1134,Ives Estates,2016-07-01,1950.0
+1135,Sunny Isles Beach,2016-07-01,
+1136,Ojus,2016-07-01,
+1137,Glenvar Heights,2016-07-01,1887.5
+1138,Sunset,2016-07-01,
+1139,Three Lakes,2016-07-01,1900.0
+1140,Key Biscayne,2016-07-01,5000.0
+1141,South Miami,2016-07-01,2137.5
+1142,Country Walk,2016-07-01,
+1143,North Bay Village,2016-07-01,2100.0
+1144,Surfside,2016-07-01,2900.0
+1145,Bay Harbor Islands,2016-07-01,2000.0
+1146,Bal Harbour,2016-07-01,
+1147,Miami,2016-08-01,2300.0
+1148,Hialeah,2016-08-01,1900.0
+1149,Miami Gardens,2016-08-01,1650.0
+1150,Miami Beach,2016-08-01,2200.0
+1151,Homestead,2016-08-01,1450.0
+1152,Kendall,2016-08-01,1799.0
+1153,Fountainbleau,2016-08-01,1600.0
+1154,North Miami,2016-08-01,1520.0
+1155,Kendale Lakes,2016-08-01,1550.0
+1156,Tamiami,2016-08-01,1950.0
+1157,The Hammocks,2016-08-01,1900.0
+1158,Doral,2016-08-01,2300.0
+1159,Coral Gables,2016-08-01,2750.0
+1160,Country Club,2016-08-01,1500.0
+1161,Cutler Bay,2016-08-01,1800.0
+1162,North Miami Beach,2016-08-01,1600.0
+1163,Kendall West,2016-08-01,1500.0
+1164,Aventura,2016-08-01,2495.0
+1165,Golden Glades,2016-08-01,1300.0
+1166,Richmond West,2016-08-01,2000.0
+1167,Miami Lakes,2016-08-01,2097.5
+1168,University Park,2016-08-01,
+1169,The Crossings,2016-08-01,1675.0
+1170,Hialeah Gardens,2016-08-01,
+1171,Ives Estates,2016-08-01,1900.0
+1172,Sunny Isles Beach,2016-08-01,
+1173,Ojus,2016-08-01,
+1174,Glenvar Heights,2016-08-01,1850.0
+1175,Sunset,2016-08-01,
+1176,Three Lakes,2016-08-01,1900.0
+1177,Key Biscayne,2016-08-01,5000.0
+1178,South Miami,2016-08-01,2200.0
+1179,Country Walk,2016-08-01,
+1180,North Bay Village,2016-08-01,2200.0
+1181,Surfside,2016-08-01,3000.0
+1182,Bay Harbor Islands,2016-08-01,1900.0
+1183,Bal Harbour,2016-08-01,
+1184,Miami,2016-09-01,2375.0
+1185,Hialeah,2016-09-01,1962.5
+1186,Miami Gardens,2016-09-01,1712.5
+1187,Miami Beach,2016-09-01,2210.0
+1188,Homestead,2016-09-01,1500.0
+1189,Kendall,2016-09-01,1712.5
+1190,Fountainbleau,2016-09-01,1600.0
+1191,North Miami,2016-09-01,1600.0
+1192,Kendale Lakes,2016-09-01,1550.0
+1193,Tamiami,2016-09-01,2200.0
+1194,The Hammocks,2016-09-01,1850.0
+1195,Doral,2016-09-01,2297.5
+1196,Coral Gables,2016-09-01,2750.0
+1197,Country Club,2016-09-01,1500.0
+1198,Cutler Bay,2016-09-01,1749.0
+1199,North Miami Beach,2016-09-01,1700.0
+1200,Kendall West,2016-09-01,1587.5
+1201,Aventura,2016-09-01,2200.0
+1202,Golden Glades,2016-09-01,1300.0
+1203,Richmond West,2016-09-01,2000.0
+1204,Miami Lakes,2016-09-01,2300.0
+1205,University Park,2016-09-01,
+1206,The Crossings,2016-09-01,1800.0
+1207,Hialeah Gardens,2016-09-01,
+1208,Ives Estates,2016-09-01,1899.0
+1209,Sunny Isles Beach,2016-09-01,
+1210,Ojus,2016-09-01,
+1211,Glenvar Heights,2016-09-01,1824.0
+1212,Sunset,2016-09-01,
+1213,Three Lakes,2016-09-01,1900.0
+1214,Key Biscayne,2016-09-01,5000.0
+1215,South Miami,2016-09-01,2200.0
+1216,Country Walk,2016-09-01,
+1217,North Bay Village,2016-09-01,2000.0
+1218,Surfside,2016-09-01,2850.0
+1219,Bay Harbor Islands,2016-09-01,1900.0
+1220,Bal Harbour,2016-09-01,
+1221,Miami,2016-10-01,2299.0
+1222,Hialeah,2016-10-01,1850.0
+1223,Miami Gardens,2016-10-01,1675.0
+1224,Miami Beach,2016-10-01,2199.0
+1225,Homestead,2016-10-01,1545.0
+1226,Kendall,2016-10-01,1650.0
+1227,Fountainbleau,2016-10-01,1600.0
+1228,North Miami,2016-10-01,1500.0
+1229,Kendale Lakes,2016-10-01,1600.0
+1230,Tamiami,2016-10-01,1900.0
+1231,The Hammocks,2016-10-01,2000.0
+1232,Doral,2016-10-01,2267.5
+1233,Coral Gables,2016-10-01,2695.0
+1234,Country Club,2016-10-01,1550.0
+1235,Cutler Bay,2016-10-01,1750.0
+1236,North Miami Beach,2016-10-01,1577.5
+1237,Kendall West,2016-10-01,1612.5
+1238,Aventura,2016-10-01,2200.0
+1239,Golden Glades,2016-10-01,1300.0
+1240,Richmond West,2016-10-01,2000.0
+1241,Miami Lakes,2016-10-01,2369.0
+1242,University Park,2016-10-01,
+1243,The Crossings,2016-10-01,1750.0
+1244,Hialeah Gardens,2016-10-01,
+1245,Ives Estates,2016-10-01,2100.0
+1246,Sunny Isles Beach,2016-10-01,
+1247,Ojus,2016-10-01,
+1248,Glenvar Heights,2016-10-01,1712.5
+1249,Sunset,2016-10-01,
+1250,Three Lakes,2016-10-01,1950.0
+1251,Key Biscayne,2016-10-01,5000.0
+1252,South Miami,2016-10-01,2035.0
+1253,Country Walk,2016-10-01,
+1254,North Bay Village,2016-10-01,2190.0
+1255,Surfside,2016-10-01,2550.0
+1256,Bay Harbor Islands,2016-10-01,1900.0
+1257,Bal Harbour,2016-10-01,
+1258,Miami,2016-11-01,2350.0
+1259,Hialeah,2016-11-01,2000.0
+1260,Miami Gardens,2016-11-01,1700.0
+1261,Miami Beach,2016-11-01,2350.0
+1262,Homestead,2016-11-01,1500.0
+1263,Kendall,2016-11-01,1850.0
+1264,Fountainbleau,2016-11-01,1600.0
+1265,North Miami,2016-11-01,1550.0
+1266,Kendale Lakes,2016-11-01,1600.0
+1267,Tamiami,2016-11-01,2000.0
+1268,The Hammocks,2016-11-01,1937.0
+1269,Doral,2016-11-01,2300.0
+1270,Coral Gables,2016-11-01,2875.0
+1271,Country Club,2016-11-01,1500.0
+1272,Cutler Bay,2016-11-01,1750.0
+1273,North Miami Beach,2016-11-01,1600.0
+1274,Kendall West,2016-11-01,1500.0
+1275,Aventura,2016-11-01,2300.0
+1276,Golden Glades,2016-11-01,1350.0
+1277,Richmond West,2016-11-01,2000.0
+1278,Miami Lakes,2016-11-01,2300.0
+1279,University Park,2016-11-01,
+1280,The Crossings,2016-11-01,1800.0
+1281,Hialeah Gardens,2016-11-01,
+1282,Ives Estates,2016-11-01,2000.0
+1283,Sunny Isles Beach,2016-11-01,
+1284,Ojus,2016-11-01,
+1285,Glenvar Heights,2016-11-01,1925.0
+1286,Sunset,2016-11-01,
+1287,Three Lakes,2016-11-01,1900.0
+1288,Key Biscayne,2016-11-01,4600.0
+1289,South Miami,2016-11-01,2100.0
+1290,Country Walk,2016-11-01,
+1291,North Bay Village,2016-11-01,2050.0
+1292,Surfside,2016-11-01,3000.0
+1293,Bay Harbor Islands,2016-11-01,1850.0
+1294,Bal Harbour,2016-11-01,
+1295,Miami,2016-12-01,2250.0
+1296,Hialeah,2016-12-01,1950.0
+1297,Miami Gardens,2016-12-01,1699.0
+1298,Miami Beach,2016-12-01,2100.0
+1299,Homestead,2016-12-01,1500.0
+1300,Kendall,2016-12-01,1700.0
+1301,Fountainbleau,2016-12-01,1585.0
+1302,North Miami,2016-12-01,1462.5
+1303,Kendale Lakes,2016-12-01,1600.0
+1304,Tamiami,2016-12-01,2200.0
+1305,The Hammocks,2016-12-01,1850.0
+1306,Doral,2016-12-01,2200.0
+1307,Coral Gables,2016-12-01,2750.0
+1308,Country Club,2016-12-01,1500.0
+1309,Cutler Bay,2016-12-01,1700.0
+1310,North Miami Beach,2016-12-01,1562.5
+1311,Kendall West,2016-12-01,1570.0
+1312,Aventura,2016-12-01,2300.0
+1313,Golden Glades,2016-12-01,1350.0
+1314,Richmond West,2016-12-01,1959.5
+1315,Miami Lakes,2016-12-01,2300.0
+1316,University Park,2016-12-01,
+1317,The Crossings,2016-12-01,1800.0
+1318,Hialeah Gardens,2016-12-01,
+1319,Ives Estates,2016-12-01,1675.0
+1320,Sunny Isles Beach,2016-12-01,
+1321,Ojus,2016-12-01,1425.0
+1322,Glenvar Heights,2016-12-01,1900.0
+1323,Sunset,2016-12-01,
+1324,Three Lakes,2016-12-01,1850.0
+1325,Key Biscayne,2016-12-01,4400.0
+1326,South Miami,2016-12-01,2000.0
+1327,Country Walk,2016-12-01,
+1328,North Bay Village,2016-12-01,2000.0
+1329,Surfside,2016-12-01,2850.0
+1330,Bay Harbor Islands,2016-12-01,1775.0
+1331,Bal Harbour,2016-12-01,
+1332,Miami,2017-01-01,2300.0
+1333,Hialeah,2017-01-01,2000.0
+1334,Miami Gardens,2017-01-01,1662.5
+1335,Miami Beach,2017-01-01,2150.0
+1336,Homestead,2017-01-01,1500.0
+1337,Kendall,2017-01-01,1799.5
+1338,Fountainbleau,2017-01-01,1600.0
+1339,North Miami,2017-01-01,1550.0
+1340,Kendale Lakes,2017-01-01,1600.0
+1341,Tamiami,2017-01-01,2000.0
+1342,The Hammocks,2017-01-01,1850.0
+1343,Doral,2017-01-01,2300.0
+1344,Coral Gables,2017-01-01,2795.0
+1345,Country Club,2017-01-01,1500.0
+1346,Cutler Bay,2017-01-01,1787.5
+1347,North Miami Beach,2017-01-01,1550.0
+1348,Kendall West,2017-01-01,1600.0
+1349,Aventura,2017-01-01,2250.0
+1350,Golden Glades,2017-01-01,1272.5
+1351,Richmond West,2017-01-01,2000.0
+1352,Miami Lakes,2017-01-01,2100.0
+1353,University Park,2017-01-01,
+1354,The Crossings,2017-01-01,1800.0
+1355,Hialeah Gardens,2017-01-01,
+1356,Ives Estates,2017-01-01,1925.0
+1357,Sunny Isles Beach,2017-01-01,3500.0
+1358,Ojus,2017-01-01,1550.0
+1359,Glenvar Heights,2017-01-01,1800.0
+1360,Sunset,2017-01-01,2200.0
+1361,Three Lakes,2017-01-01,1900.0
+1362,Key Biscayne,2017-01-01,4900.0
+1363,South Miami,2017-01-01,2250.0
+1364,Country Walk,2017-01-01,2100.0
+1365,North Bay Village,2017-01-01,2150.0
+1366,Surfside,2017-01-01,2590.0
+1367,Bay Harbor Islands,2017-01-01,1850.0
+1368,Bal Harbour,2017-01-01,
+1369,Miami,2017-02-01,2300.0
+1370,Hialeah,2017-02-01,2000.0
+1371,Miami Gardens,2017-02-01,1675.0
+1372,Miami Beach,2017-02-01,2200.0
+1373,Homestead,2017-02-01,1500.0
+1374,Kendall,2017-02-01,1800.0
+1375,Fountainbleau,2017-02-01,1650.0
+1376,North Miami,2017-02-01,1575.0
+1377,Kendale Lakes,2017-02-01,1650.0
+1378,Tamiami,2017-02-01,2200.0
+1379,The Hammocks,2017-02-01,1950.0
+1380,Doral,2017-02-01,2297.5
+1381,Coral Gables,2017-02-01,2900.0
+1382,Country Club,2017-02-01,1600.0
+1383,Cutler Bay,2017-02-01,1799.0
+1384,North Miami Beach,2017-02-01,1600.0
+1385,Kendall West,2017-02-01,1650.0
+1386,Aventura,2017-02-01,2300.0
+1387,Golden Glades,2017-02-01,1250.0
+1388,Richmond West,2017-02-01,2000.0
+1389,Miami Lakes,2017-02-01,2100.0
+1390,University Park,2017-02-01,
+1391,The Crossings,2017-02-01,1800.0
+1392,Hialeah Gardens,2017-02-01,
+1393,Ives Estates,2017-02-01,1900.0
+1394,Sunny Isles Beach,2017-02-01,3500.0
+1395,Ojus,2017-02-01,1525.0
+1396,Glenvar Heights,2017-02-01,1700.0
+1397,Sunset,2017-02-01,2275.0
+1398,Three Lakes,2017-02-01,1875.0
+1399,Key Biscayne,2017-02-01,5000.0
+1400,South Miami,2017-02-01,2167.5
+1401,Country Walk,2017-02-01,2125.0
+1402,North Bay Village,2017-02-01,2150.0
+1403,Surfside,2017-02-01,2800.0
+1404,Bay Harbor Islands,2017-02-01,1900.0
+1405,Bal Harbour,2017-02-01,
+1406,Miami,2017-03-01,2300.0
+1407,Hialeah,2017-03-01,2000.0
+1408,Miami Gardens,2017-03-01,1662.5
+1409,Miami Beach,2017-03-01,2300.0
+1410,Homestead,2017-03-01,1500.0
+1411,Kendall,2017-03-01,1762.5
+1412,Fountainbleau,2017-03-01,1650.0
+1413,North Miami,2017-03-01,1600.0
+1414,Kendale Lakes,2017-03-01,1600.0
+1415,Tamiami,2017-03-01,2200.0
+1416,The Hammocks,2017-03-01,1900.0
+1417,Doral,2017-03-01,2285.0
+1418,Coral Gables,2017-03-01,3000.0
+1419,Country Club,2017-03-01,1592.5
+1420,Cutler Bay,2017-03-01,1800.0
+1421,North Miami Beach,2017-03-01,1600.0
+1422,Kendall West,2017-03-01,1650.0
+1423,Aventura,2017-03-01,2362.5
+1424,Golden Glades,2017-03-01,1350.0
+1425,Richmond West,2017-03-01,1999.0
+1426,Miami Lakes,2017-03-01,2000.0
+1427,University Park,2017-03-01,
+1428,The Crossings,2017-03-01,1725.0
+1429,Hialeah Gardens,2017-03-01,
+1430,Ives Estates,2017-03-01,1950.0
+1431,Sunny Isles Beach,2017-03-01,3690.0
+1432,Ojus,2017-03-01,1600.0
+1433,Glenvar Heights,2017-03-01,1672.5
+1434,Sunset,2017-03-01,2375.0
+1435,Three Lakes,2017-03-01,1900.0
+1436,Key Biscayne,2017-03-01,4500.0
+1437,South Miami,2017-03-01,2275.0
+1438,Country Walk,2017-03-01,2150.0
+1439,North Bay Village,2017-03-01,2050.0
+1440,Surfside,2017-03-01,2800.0
+1441,Bay Harbor Islands,2017-03-01,1975.0
+1442,Bal Harbour,2017-03-01,3700.0
+1443,Miami,2017-04-01,2300.0
+1444,Hialeah,2017-04-01,2000.0
+1445,Miami Gardens,2017-04-01,1700.0
+1446,Miami Beach,2017-04-01,2250.0
+1447,Homestead,2017-04-01,1500.0
+1448,Kendall,2017-04-01,1800.0
+1449,Fountainbleau,2017-04-01,1650.0
+1450,North Miami,2017-04-01,1650.0
+1451,Kendale Lakes,2017-04-01,1650.0
+1452,Tamiami,2017-04-01,2200.0
+1453,The Hammocks,2017-04-01,1900.0
+1454,Doral,2017-04-01,2345.0
+1455,Coral Gables,2017-04-01,3050.0
+1456,Country Club,2017-04-01,1537.5
+1457,Cutler Bay,2017-04-01,1800.0
+1458,North Miami Beach,2017-04-01,1600.0
+1459,Kendall West,2017-04-01,1650.0
+1460,Aventura,2017-04-01,2350.0
+1461,Golden Glades,2017-04-01,1362.5
+1462,Richmond West,2017-04-01,2000.0
+1463,Miami Lakes,2017-04-01,2000.0
+1464,University Park,2017-04-01,
+1465,The Crossings,2017-04-01,1712.5
+1466,Hialeah Gardens,2017-04-01,
+1467,Ives Estates,2017-04-01,1950.0
+1468,Sunny Isles Beach,2017-04-01,3400.0
+1469,Ojus,2017-04-01,1600.0
+1470,Glenvar Heights,2017-04-01,1900.0
+1471,Sunset,2017-04-01,2250.0
+1472,Three Lakes,2017-04-01,1950.0
+1473,Key Biscayne,2017-04-01,4450.0
+1474,South Miami,2017-04-01,2400.0
+1475,Country Walk,2017-04-01,2200.0
+1476,North Bay Village,2017-04-01,2100.0
+1477,Surfside,2017-04-01,2900.0
+1478,Bay Harbor Islands,2017-04-01,2200.0
+1479,Bal Harbour,2017-04-01,3800.0
+1480,Miami,2017-05-01,2300.0
+1481,Hialeah,2017-05-01,1995.0
+1482,Miami Gardens,2017-05-01,1749.0
+1483,Miami Beach,2017-05-01,2297.5
+1484,Homestead,2017-05-01,1500.0
+1485,Kendall,2017-05-01,1800.0
+1486,Fountainbleau,2017-05-01,1687.5
+1487,North Miami,2017-05-01,1700.0
+1488,Kendale Lakes,2017-05-01,1600.0
+1489,Tamiami,2017-05-01,2200.0
+1490,The Hammocks,2017-05-01,1850.0
+1491,Doral,2017-05-01,2300.0
+1492,Coral Gables,2017-05-01,2900.0
+1493,Country Club,2017-05-01,1550.0
+1494,Cutler Bay,2017-05-01,1850.0
+1495,North Miami Beach,2017-05-01,1632.5
+1496,Kendall West,2017-05-01,1612.5
+1497,Aventura,2017-05-01,2300.0
+1498,Golden Glades,2017-05-01,1425.0
+1499,Richmond West,2017-05-01,2000.0
+1500,Miami Lakes,2017-05-01,2100.0
+1501,University Park,2017-05-01,
+1502,The Crossings,2017-05-01,1725.0
+1503,Hialeah Gardens,2017-05-01,
+1504,Ives Estates,2017-05-01,1999.0
+1505,Sunny Isles Beach,2017-05-01,3250.0
+1506,Ojus,2017-05-01,1525.0
+1507,Glenvar Heights,2017-05-01,1700.0
+1508,Sunset,2017-05-01,2295.0
+1509,Three Lakes,2017-05-01,1992.5
+1510,Key Biscayne,2017-05-01,4500.0
+1511,South Miami,2017-05-01,2200.0
+1512,Country Walk,2017-05-01,2270.0
+1513,North Bay Village,2017-05-01,2200.0
+1514,Surfside,2017-05-01,2795.0
+1515,Bay Harbor Islands,2017-05-01,2200.0
+1516,Bal Harbour,2017-05-01,3775.0
+1517,Miami,2017-06-01,2300.0
+1518,Hialeah,2017-06-01,2000.0
+1519,Miami Gardens,2017-06-01,1700.0
+1520,Miami Beach,2017-06-01,2250.0
+1521,Homestead,2017-06-01,1500.0
+1522,Kendall,2017-06-01,1800.0
+1523,Fountainbleau,2017-06-01,1700.0
+1524,North Miami,2017-06-01,1600.0
+1525,Kendale Lakes,2017-06-01,1600.0
+1526,Tamiami,2017-06-01,2250.0
+1527,The Hammocks,2017-06-01,1900.0
+1528,Doral,2017-06-01,2300.0
+1529,Coral Gables,2017-06-01,2900.0
+1530,Country Club,2017-06-01,1550.0
+1531,Cutler Bay,2017-06-01,1800.0
+1532,North Miami Beach,2017-06-01,1725.0
+1533,Kendall West,2017-06-01,1650.0
+1534,Aventura,2017-06-01,2300.0
+1535,Golden Glades,2017-06-01,1370.0
+1536,Richmond West,2017-06-01,2000.0
+1537,Miami Lakes,2017-06-01,1910.0
+1538,University Park,2017-06-01,
+1539,The Crossings,2017-06-01,1700.0
+1540,Hialeah Gardens,2017-06-01,
+1541,Ives Estates,2017-06-01,2100.0
+1542,Sunny Isles Beach,2017-06-01,3200.0
+1543,Ojus,2017-06-01,1650.0
+1544,Glenvar Heights,2017-06-01,1787.5
+1545,Sunset,2017-06-01,2200.0
+1546,Three Lakes,2017-06-01,1950.0
+1547,Key Biscayne,2017-06-01,4500.0
+1548,South Miami,2017-06-01,2135.0
+1549,Country Walk,2017-06-01,2310.0
+1550,North Bay Village,2017-06-01,2100.0
+1551,Surfside,2017-06-01,2900.0
+1552,Bay Harbor Islands,2017-06-01,2200.0
+1553,Bal Harbour,2017-06-01,3600.0
+1554,Miami,2017-07-01,2300.0
+1555,Hialeah,2017-07-01,2000.0
+1556,Miami Gardens,2017-07-01,1749.0
+1557,Miami Beach,2017-07-01,2299.5
+1558,Homestead,2017-07-01,1500.0
+1559,Kendall,2017-07-01,1800.0
+1560,Fountainbleau,2017-07-01,1700.0
+1561,North Miami,2017-07-01,1550.0
+1562,Kendale Lakes,2017-07-01,1600.0
+1563,Tamiami,2017-07-01,2250.0
+1564,The Hammocks,2017-07-01,1850.0
+1565,Doral,2017-07-01,2350.0
+1566,Coral Gables,2017-07-01,2700.0
+1567,Country Club,2017-07-01,1550.0
+1568,Cutler Bay,2017-07-01,1900.0
+1569,North Miami Beach,2017-07-01,1762.5
+1570,Kendall West,2017-07-01,1650.0
+1571,Aventura,2017-07-01,2300.0
+1572,Golden Glades,2017-07-01,1300.0
+1573,Richmond West,2017-07-01,2000.0
+1574,Miami Lakes,2017-07-01,2112.5
+1575,University Park,2017-07-01,
+1576,The Crossings,2017-07-01,1700.0
+1577,Hialeah Gardens,2017-07-01,
+1578,Ives Estates,2017-07-01,1900.0
+1579,Sunny Isles Beach,2017-07-01,3125.0
+1580,Ojus,2017-07-01,1600.0
+1581,Glenvar Heights,2017-07-01,1875.0
+1582,Sunset,2017-07-01,2200.0
+1583,Three Lakes,2017-07-01,1950.0
+1584,Key Biscayne,2017-07-01,4500.0
+1585,South Miami,2017-07-01,2190.0
+1586,Country Walk,2017-07-01,2334.5
+1587,North Bay Village,2017-07-01,2050.0
+1588,Surfside,2017-07-01,2850.0
+1589,Bay Harbor Islands,2017-07-01,2200.0
+1590,Bal Harbour,2017-07-01,3600.0
+1591,Miami,2017-08-01,2300.0
+1592,Hialeah,2017-08-01,1957.0
+1593,Miami Gardens,2017-08-01,1750.0
+1594,Miami Beach,2017-08-01,2350.0
+1595,Homestead,2017-08-01,1500.0
+1596,Kendall,2017-08-01,1800.0
+1597,Fountainbleau,2017-08-01,1665.0
+1598,North Miami,2017-08-01,1550.0
+1599,Kendale Lakes,2017-08-01,1650.0
+1600,Tamiami,2017-08-01,2250.0
+1601,The Hammocks,2017-08-01,1850.0
+1602,Doral,2017-08-01,2350.0
+1603,Coral Gables,2017-08-01,2700.0
+1604,Country Club,2017-08-01,1500.0
+1605,Cutler Bay,2017-08-01,1872.5
+1606,North Miami Beach,2017-08-01,1740.0
+1607,Kendall West,2017-08-01,1562.5
+1608,Aventura,2017-08-01,2375.0
+1609,Golden Glades,2017-08-01,1300.0
+1610,Richmond West,2017-08-01,2095.0
+1611,Miami Lakes,2017-08-01,2200.0
+1612,University Park,2017-08-01,
+1613,The Crossings,2017-08-01,1750.0
+1614,Hialeah Gardens,2017-08-01,
+1615,Ives Estates,2017-08-01,1900.0
+1616,Sunny Isles Beach,2017-08-01,3390.0
+1617,Ojus,2017-08-01,1650.0
+1618,Glenvar Heights,2017-08-01,1772.5
+1619,Sunset,2017-08-01,2200.0
+1620,Three Lakes,2017-08-01,1950.0
+1621,Key Biscayne,2017-08-01,4500.0
+1622,South Miami,2017-08-01,2550.0
+1623,Country Walk,2017-08-01,2287.0
+1624,North Bay Village,2017-08-01,2000.0
+1625,Surfside,2017-08-01,2850.0
+1626,Bay Harbor Islands,2017-08-01,2300.0
+1627,Bal Harbour,2017-08-01,4200.0
+1628,Miami,2017-09-01,2300.0
+1629,Hialeah,2017-09-01,2000.0
+1630,Miami Gardens,2017-09-01,1700.0
+1631,Miami Beach,2017-09-01,2350.0
+1632,Homestead,2017-09-01,1500.0
+1633,Kendall,2017-09-01,1800.0
+1634,Fountainbleau,2017-09-01,1635.0
+1635,North Miami,2017-09-01,1550.0
+1636,Kendale Lakes,2017-09-01,1650.0
+1637,Tamiami,2017-09-01,2250.0
+1638,The Hammocks,2017-09-01,1900.0
+1639,Doral,2017-09-01,2400.0
+1640,Coral Gables,2017-09-01,2750.0
+1641,Country Club,2017-09-01,1500.0
+1642,Cutler Bay,2017-09-01,1850.0
+1643,North Miami Beach,2017-09-01,1700.0
+1644,Kendall West,2017-09-01,1590.0
+1645,Aventura,2017-09-01,2400.0
+1646,Golden Glades,2017-09-01,1350.0
+1647,Richmond West,2017-09-01,2100.0
+1648,Miami Lakes,2017-09-01,2200.0
+1649,University Park,2017-09-01,
+1650,The Crossings,2017-09-01,1700.0
+1651,Hialeah Gardens,2017-09-01,
+1652,Ives Estates,2017-09-01,1999.0
+1653,Sunny Isles Beach,2017-09-01,3500.0
+1654,Ojus,2017-09-01,1808.0
+1655,Glenvar Heights,2017-09-01,1825.0
+1656,Sunset,2017-09-01,2300.0
+1657,Three Lakes,2017-09-01,1958.0
+1658,Key Biscayne,2017-09-01,4500.0
+1659,South Miami,2017-09-01,2500.0
+1660,Country Walk,2017-09-01,2300.0
+1661,North Bay Village,2017-09-01,2000.0
+1662,Surfside,2017-09-01,2850.0
+1663,Bay Harbor Islands,2017-09-01,2297.5
+1664,Bal Harbour,2017-09-01,4325.0
+1665,Miami,2017-10-01,2300.0
+1666,Hialeah,2017-10-01,2000.0
+1667,Miami Gardens,2017-10-01,1675.0
+1668,Miami Beach,2017-10-01,2300.0
+1669,Homestead,2017-10-01,1500.0
+1670,Kendall,2017-10-01,1775.0
+1671,Fountainbleau,2017-10-01,1600.0
+1672,North Miami,2017-10-01,1475.0
+1673,Kendale Lakes,2017-10-01,1650.0
+1674,Tamiami,2017-10-01,2275.0
+1675,The Hammocks,2017-10-01,1950.0
+1676,Doral,2017-10-01,2400.0
+1677,Coral Gables,2017-10-01,2600.0
+1678,Country Club,2017-10-01,1550.0
+1679,Cutler Bay,2017-10-01,1872.5
+1680,North Miami Beach,2017-10-01,1700.0
+1681,Kendall West,2017-10-01,1550.0
+1682,Aventura,2017-10-01,2400.0
+1683,Golden Glades,2017-10-01,1397.5
+1684,Richmond West,2017-10-01,2100.0
+1685,Miami Lakes,2017-10-01,2100.0
+1686,University Park,2017-10-01,
+1687,The Crossings,2017-10-01,1750.0
+1688,Hialeah Gardens,2017-10-01,
+1689,Ives Estates,2017-10-01,1999.0
+1690,Sunny Isles Beach,2017-10-01,3500.0
+1691,Ojus,2017-10-01,1790.0
+1692,Glenvar Heights,2017-10-01,1750.0
+1693,Sunset,2017-10-01,2300.0
+1694,Three Lakes,2017-10-01,1995.0
+1695,Key Biscayne,2017-10-01,4900.0
+1696,South Miami,2017-10-01,2317.5
+1697,Country Walk,2017-10-01,2380.0
+1698,North Bay Village,2017-10-01,2050.0
+1699,Surfside,2017-10-01,2900.0
+1700,Bay Harbor Islands,2017-10-01,2200.0
+1701,Bal Harbour,2017-10-01,4000.0
+1702,Miami,2017-11-01,2300.0
+1703,Hialeah,2017-11-01,2000.0
+1704,Miami Gardens,2017-11-01,1650.0
+1705,Miami Beach,2017-11-01,2300.0
+1706,Homestead,2017-11-01,1500.0
+1707,Kendall,2017-11-01,1800.0
+1708,Fountainbleau,2017-11-01,1600.0
+1709,North Miami,2017-11-01,1400.0
+1710,Kendale Lakes,2017-11-01,1650.0
+1711,Tamiami,2017-11-01,2250.0
+1712,The Hammocks,2017-11-01,1950.0
+1713,Doral,2017-11-01,2400.0
+1714,Coral Gables,2017-11-01,2587.0
+1715,Country Club,2017-11-01,1535.0
+1716,Cutler Bay,2017-11-01,1800.0
+1717,North Miami Beach,2017-11-01,1699.5
+1718,Kendall West,2017-11-01,1580.0
+1719,Aventura,2017-11-01,2300.0
+1720,Golden Glades,2017-11-01,1350.0
+1721,Richmond West,2017-11-01,2200.0
+1722,Miami Lakes,2017-11-01,2025.0
+1723,University Park,2017-11-01,2200.0
+1724,The Crossings,2017-11-01,1787.5
+1725,Hialeah Gardens,2017-11-01,
+1726,Ives Estates,2017-11-01,1900.0
+1727,Sunny Isles Beach,2017-11-01,3500.0
+1728,Ojus,2017-11-01,1875.0
+1729,Glenvar Heights,2017-11-01,1700.0
+1730,Sunset,2017-11-01,2450.0
+1731,Three Lakes,2017-11-01,2000.0
+1732,Key Biscayne,2017-11-01,4800.0
+1733,South Miami,2017-11-01,2135.0
+1734,Country Walk,2017-11-01,2320.0
+1735,North Bay Village,2017-11-01,2000.0
+1736,Surfside,2017-11-01,2950.0
+1737,Bay Harbor Islands,2017-11-01,2295.0
+1738,Bal Harbour,2017-11-01,4200.0
+1739,Miami,2017-12-01,2300.0
+1740,Hialeah,2017-12-01,2050.0
+1741,Miami Gardens,2017-12-01,1650.0
+1742,Miami Beach,2017-12-01,2300.0
+1743,Homestead,2017-12-01,1550.0
+1744,Kendall,2017-12-01,1800.0
+1745,Fountainbleau,2017-12-01,1650.0
+1746,North Miami,2017-12-01,1450.0
+1747,Kendale Lakes,2017-12-01,1699.5
+1748,Tamiami,2017-12-01,2287.5
+1749,The Hammocks,2017-12-01,1950.0
+1750,Doral,2017-12-01,2400.0
+1751,Coral Gables,2017-12-01,2612.5
+1752,Country Club,2017-12-01,1550.0
+1753,Cutler Bay,2017-12-01,1800.0
+1754,North Miami Beach,2017-12-01,1650.0
+1755,Kendall West,2017-12-01,1650.0
+1756,Aventura,2017-12-01,2350.0
+1757,Golden Glades,2017-12-01,1300.0
+1758,Richmond West,2017-12-01,2199.0
+1759,Miami Lakes,2017-12-01,2199.5
+1760,University Park,2017-12-01,2450.0
+1761,The Crossings,2017-12-01,1775.0
+1762,Hialeah Gardens,2017-12-01,
+1763,Ives Estates,2017-12-01,1900.0
+1764,Sunny Isles Beach,2017-12-01,3495.0
+1765,Ojus,2017-12-01,1850.0
+1766,Glenvar Heights,2017-12-01,1700.0
+1767,Sunset,2017-12-01,2450.0
+1768,Three Lakes,2017-12-01,2000.0
+1769,Key Biscayne,2017-12-01,4950.0
+1770,South Miami,2017-12-01,2167.5
+1771,Country Walk,2017-12-01,2320.0
+1772,North Bay Village,2017-12-01,2000.0
+1773,Surfside,2017-12-01,3100.0
+1774,Bay Harbor Islands,2017-12-01,2297.5
+1775,Bal Harbour,2017-12-01,4272.5
+1776,Miami,2018-01-01,2350.0
+1777,Hialeah,2018-01-01,2000.0
+1778,Miami Gardens,2018-01-01,1650.0
+1779,Miami Beach,2018-01-01,2350.0
+1780,Homestead,2018-01-01,1537.5
+1781,Kendall,2018-01-01,1800.0
+1782,Fountainbleau,2018-01-01,1650.0
+1783,North Miami,2018-01-01,1450.0
+1784,Kendale Lakes,2018-01-01,1699.5
+1785,Tamiami,2018-01-01,2300.0
+1786,The Hammocks,2018-01-01,2000.0
+1787,Doral,2018-01-01,2400.0
+1788,Coral Gables,2018-01-01,2750.0
+1789,Country Club,2018-01-01,1550.0
+1790,Cutler Bay,2018-01-01,1785.0
+1791,North Miami Beach,2018-01-01,1687.5
+1792,Kendall West,2018-01-01,1650.0
+1793,Aventura,2018-01-01,2350.0
+1794,Golden Glades,2018-01-01,1300.0
+1795,Richmond West,2018-01-01,2165.0
+1796,Miami Lakes,2018-01-01,2300.0
+1797,University Park,2018-01-01,2400.0
+1798,The Crossings,2018-01-01,1800.0
+1799,Hialeah Gardens,2018-01-01,
+1800,Ives Estates,2018-01-01,1700.0
+1801,Sunny Isles Beach,2018-01-01,3500.0
+1802,Ojus,2018-01-01,1900.0
+1803,Glenvar Heights,2018-01-01,1700.0
+1804,Sunset,2018-01-01,2400.0
+1805,Three Lakes,2018-01-01,2000.0
+1806,Key Biscayne,2018-01-01,4925.0
+1807,South Miami,2018-01-01,2135.0
+1808,Country Walk,2018-01-01,2425.0
+1809,North Bay Village,2018-01-01,2000.0
+1810,Surfside,2018-01-01,2850.0
+1811,Bay Harbor Islands,2018-01-01,2200.0
+1812,Bal Harbour,2018-01-01,3800.0
+1813,Miami,2018-02-01,2322.5
+1814,Hialeah,2018-02-01,1999.5
+1815,Miami Gardens,2018-02-01,1700.0
+1816,Miami Beach,2018-02-01,2400.0
+1817,Homestead,2018-02-01,1550.0
+1818,Kendall,2018-02-01,1850.0
+1819,Fountainbleau,2018-02-01,1650.0
+1820,North Miami,2018-02-01,1550.0
+1821,Kendale Lakes,2018-02-01,1700.0
+1822,Tamiami,2018-02-01,2200.0
+1823,The Hammocks,2018-02-01,2000.0
+1824,Doral,2018-02-01,2400.0
+1825,Coral Gables,2018-02-01,2900.0
+1826,Country Club,2018-02-01,1550.0
+1827,Cutler Bay,2018-02-01,1795.0
+1828,North Miami Beach,2018-02-01,1700.0
+1829,Kendall West,2018-02-01,1600.0
+1830,Aventura,2018-02-01,2300.0
+1831,Golden Glades,2018-02-01,1300.0
+1832,Richmond West,2018-02-01,2145.0
+1833,Miami Lakes,2018-02-01,2350.0
+1834,University Park,2018-02-01,2395.0
+1835,The Crossings,2018-02-01,1900.0
+1836,Hialeah Gardens,2018-02-01,
+1837,Ives Estates,2018-02-01,1999.5
+1838,Sunny Isles Beach,2018-02-01,3500.0
+1839,Ojus,2018-02-01,1750.0
+1840,Glenvar Heights,2018-02-01,1850.0
+1841,Sunset,2018-02-01,2400.0
+1842,Three Lakes,2018-02-01,2100.0
+1843,Key Biscayne,2018-02-01,5000.0
+1844,South Miami,2018-02-01,2200.0
+1845,Country Walk,2018-02-01,2490.0
+1846,North Bay Village,2018-02-01,1980.0
+1847,Surfside,2018-02-01,2900.0
+1848,Bay Harbor Islands,2018-02-01,2100.0
+1849,Bal Harbour,2018-02-01,3625.0
+1850,Miami,2018-03-01,2400.0
+1851,Hialeah,2018-03-01,2000.0
+1852,Miami Gardens,2018-03-01,1750.0
+1853,Miami Beach,2018-03-01,2450.0
+1854,Homestead,2018-03-01,1600.0
+1855,Kendall,2018-03-01,1845.0
+1856,Fountainbleau,2018-03-01,1650.0
+1857,North Miami,2018-03-01,1599.5
+1858,Kendale Lakes,2018-03-01,1650.0
+1859,Tamiami,2018-03-01,2100.0
+1860,The Hammocks,2018-03-01,2000.0
+1861,Doral,2018-03-01,2400.0
+1862,Coral Gables,2018-03-01,2997.5
+1863,Country Club,2018-03-01,1550.0
+1864,Cutler Bay,2018-03-01,1799.0
+1865,North Miami Beach,2018-03-01,1750.0
+1866,Kendall West,2018-03-01,1637.5
+1867,Aventura,2018-03-01,2300.0
+1868,Golden Glades,2018-03-01,1300.0
+1869,Richmond West,2018-03-01,2150.0
+1870,Miami Lakes,2018-03-01,2300.0
+1871,University Park,2018-03-01,2220.0
+1872,The Crossings,2018-03-01,1800.0
+1873,Hialeah Gardens,2018-03-01,
+1874,Ives Estates,2018-03-01,1800.0
+1875,Sunny Isles Beach,2018-03-01,3600.0
+1876,Ojus,2018-03-01,1600.0
+1877,Glenvar Heights,2018-03-01,1785.0
+1878,Sunset,2018-03-01,2300.0
+1879,Three Lakes,2018-03-01,2000.0
+1880,Key Biscayne,2018-03-01,4800.0
+1881,South Miami,2018-03-01,2050.0
+1882,Country Walk,2018-03-01,2200.0
+1883,North Bay Village,2018-03-01,2012.5
+1884,Surfside,2018-03-01,2970.0
+1885,Bay Harbor Islands,2018-03-01,2292.5
+1886,Bal Harbour,2018-03-01,3625.0
+1887,Miami,2018-04-01,2400.0
+1888,Hialeah,2018-04-01,2000.0
+1889,Miami Gardens,2018-04-01,1750.0
+1890,Miami Beach,2018-04-01,2400.0
+1891,Homestead,2018-04-01,1600.0
+1892,Kendall,2018-04-01,1850.0
+1893,Fountainbleau,2018-04-01,1635.0
+1894,North Miami,2018-04-01,1595.0
+1895,Kendale Lakes,2018-04-01,1662.5
+1896,Tamiami,2018-04-01,2150.0
+1897,The Hammocks,2018-04-01,2000.0
+1898,Doral,2018-04-01,2400.0
+1899,Coral Gables,2018-04-01,3000.0
+1900,Country Club,2018-04-01,1600.0
+1901,Cutler Bay,2018-04-01,1750.0
+1902,North Miami Beach,2018-04-01,1750.0
+1903,Kendall West,2018-04-01,1662.5
+1904,Aventura,2018-04-01,2400.0
+1905,Golden Glades,2018-04-01,1300.0
+1906,Richmond West,2018-04-01,2080.0
+1907,Miami Lakes,2018-04-01,2425.0
+1908,University Park,2018-04-01,2300.0
+1909,The Crossings,2018-04-01,1750.0
+1910,Hialeah Gardens,2018-04-01,
+1911,Ives Estates,2018-04-01,1800.0
+1912,Sunny Isles Beach,2018-04-01,3574.5
+1913,Ojus,2018-04-01,1650.0
+1914,Glenvar Heights,2018-04-01,1855.0
+1915,Sunset,2018-04-01,2400.0
+1916,Three Lakes,2018-04-01,2000.0
+1917,Key Biscayne,2018-04-01,4975.0
+1918,South Miami,2018-04-01,2100.0
+1919,Country Walk,2018-04-01,2250.0
+1920,North Bay Village,2018-04-01,2150.0
+1921,Surfside,2018-04-01,3000.0
+1922,Bay Harbor Islands,2018-04-01,2150.0
+1923,Bal Harbour,2018-04-01,3800.0
+1924,Miami,2018-05-01,2450.0
+1925,Hialeah,2018-05-01,2050.0
+1926,Miami Gardens,2018-05-01,1750.0
+1927,Miami Beach,2018-05-01,2400.0
+1928,Homestead,2018-05-01,1600.0
+1929,Kendall,2018-05-01,1850.0
+1930,Fountainbleau,2018-05-01,1650.0
+1931,North Miami,2018-05-01,1550.0
+1932,Kendale Lakes,2018-05-01,1650.0
+1933,Tamiami,2018-05-01,2125.0
+1934,The Hammocks,2018-05-01,2000.0
+1935,Doral,2018-05-01,2387.5
+1936,Coral Gables,2018-05-01,2900.0
+1937,Country Club,2018-05-01,1600.0
+1938,Cutler Bay,2018-05-01,1750.0
+1939,North Miami Beach,2018-05-01,1770.0
+1940,Kendall West,2018-05-01,1600.0
+1941,Aventura,2018-05-01,2500.0
+1942,Golden Glades,2018-05-01,1295.0
+1943,Richmond West,2018-05-01,2100.0
+1944,Miami Lakes,2018-05-01,2300.0
+1945,University Park,2018-05-01,2300.0
+1946,The Crossings,2018-05-01,1800.0
+1947,Hialeah Gardens,2018-05-01,
+1948,Ives Estates,2018-05-01,1850.0
+1949,Sunny Isles Beach,2018-05-01,3500.0
+1950,Ojus,2018-05-01,1780.5
+1951,Glenvar Heights,2018-05-01,1820.0
+1952,Sunset,2018-05-01,2500.0
+1953,Three Lakes,2018-05-01,1950.0
+1954,Key Biscayne,2018-05-01,4900.0
+1955,South Miami,2018-05-01,2300.0
+1956,Country Walk,2018-05-01,2200.0
+1957,North Bay Village,2018-05-01,2100.0
+1958,Surfside,2018-05-01,2997.0
+1959,Bay Harbor Islands,2018-05-01,2100.0
+1960,Bal Harbour,2018-05-01,4350.0
+1961,Miami,2018-06-01,2475.0
+1962,Hialeah,2018-06-01,2000.0
+1963,Miami Gardens,2018-06-01,1800.0
+1964,Miami Beach,2018-06-01,2400.0
+1965,Homestead,2018-06-01,1600.0
+1966,Kendall,2018-06-01,1800.0
+1967,Fountainbleau,2018-06-01,1600.0
+1968,North Miami,2018-06-01,1600.0
+1969,Kendale Lakes,2018-06-01,1695.0
+1970,Tamiami,2018-06-01,2162.5
+1971,The Hammocks,2018-06-01,2000.0
+1972,Doral,2018-06-01,2350.0
+1973,Coral Gables,2018-06-01,2900.0
+1974,Country Club,2018-06-01,1650.0
+1975,Cutler Bay,2018-06-01,1800.0
+1976,North Miami Beach,2018-06-01,1799.0
+1977,Kendall West,2018-06-01,1550.0
+1978,Aventura,2018-06-01,2500.0
+1979,Golden Glades,2018-06-01,1300.0
+1980,Richmond West,2018-06-01,2130.0
+1981,Miami Lakes,2018-06-01,2200.0
+1982,University Park,2018-06-01,2000.0
+1983,The Crossings,2018-06-01,1750.0
+1984,Hialeah Gardens,2018-06-01,
+1985,Ives Estates,2018-06-01,1650.0
+1986,Sunny Isles Beach,2018-06-01,3500.0
+1987,Ojus,2018-06-01,1970.0
+1988,Glenvar Heights,2018-06-01,1800.0
+1989,Sunset,2018-06-01,2225.0
+1990,Three Lakes,2018-06-01,2000.0
+1991,Key Biscayne,2018-06-01,4800.0
+1992,South Miami,2018-06-01,2335.0
+1993,Country Walk,2018-06-01,2200.0
+1994,North Bay Village,2018-06-01,2100.0
+1995,Surfside,2018-06-01,3050.0
+1996,Bay Harbor Islands,2018-06-01,2200.0
+1997,Bal Harbour,2018-06-01,4200.0
+1998,Miami,2018-07-01,2500.0
+1999,Hialeah,2018-07-01,2000.0
+2000,Miami Gardens,2018-07-01,1795.0
+2001,Miami Beach,2018-07-01,2373.5
+2002,Homestead,2018-07-01,1600.0
+2003,Kendall,2018-07-01,1800.0
+2004,Fountainbleau,2018-07-01,1695.0
+2005,North Miami,2018-07-01,1600.0
+2006,Kendale Lakes,2018-07-01,1699.0
+2007,Tamiami,2018-07-01,2000.0
+2008,The Hammocks,2018-07-01,2000.0
+2009,Doral,2018-07-01,2375.0
+2010,Coral Gables,2018-07-01,2872.5
+2011,Country Club,2018-07-01,1650.0
+2012,Cutler Bay,2018-07-01,1785.0
+2013,North Miami Beach,2018-07-01,1725.0
+2014,Kendall West,2018-07-01,1550.0
+2015,Aventura,2018-07-01,2500.0
+2016,Golden Glades,2018-07-01,1400.0
+2017,Richmond West,2018-07-01,2100.0
+2018,Miami Lakes,2018-07-01,2250.0
+2019,University Park,2018-07-01,2200.0
+2020,The Crossings,2018-07-01,1800.0
+2021,Hialeah Gardens,2018-07-01,1900.0
+2022,Ives Estates,2018-07-01,1650.0
+2023,Sunny Isles Beach,2018-07-01,3700.0
+2024,Ojus,2018-07-01,1990.0
+2025,Glenvar Heights,2018-07-01,1881.0
+2026,Sunset,2018-07-01,2450.0
+2027,Three Lakes,2018-07-01,2000.0
+2028,Key Biscayne,2018-07-01,4774.5
+2029,South Miami,2018-07-01,2375.0
+2030,Country Walk,2018-07-01,2200.0
+2031,North Bay Village,2018-07-01,2075.0
+2032,Surfside,2018-07-01,3000.0
+2033,Bay Harbor Islands,2018-07-01,2190.0
+2034,Bal Harbour,2018-07-01,4550.0
+2035,Miami,2018-08-01,2500.0
+2036,Hialeah,2018-08-01,2000.0
+2037,Miami Gardens,2018-08-01,1792.5
+2038,Miami Beach,2018-08-01,2400.0
+2039,Homestead,2018-08-01,1600.0
+2040,Kendall,2018-08-01,1750.0
+2041,Fountainbleau,2018-08-01,1612.5
+2042,North Miami,2018-08-01,1600.0
+2043,Kendale Lakes,2018-08-01,1650.0
+2044,Tamiami,2018-08-01,2000.0
+2045,The Hammocks,2018-08-01,1995.0
+2046,Doral,2018-08-01,2350.0
+2047,Coral Gables,2018-08-01,2875.0
+2048,Country Club,2018-08-01,1630.0
+2049,Cutler Bay,2018-08-01,1750.0
+2050,North Miami Beach,2018-08-01,1700.0
+2051,Kendall West,2018-08-01,1550.0
+2052,Aventura,2018-08-01,2450.0
+2053,Golden Glades,2018-08-01,1400.0
+2054,Richmond West,2018-08-01,2172.5
+2055,Miami Lakes,2018-08-01,2300.0
+2056,University Park,2018-08-01,2200.0
+2057,The Crossings,2018-08-01,1800.0
+2058,Hialeah Gardens,2018-08-01,1900.0
+2059,Ives Estates,2018-08-01,1700.0
+2060,Sunny Isles Beach,2018-08-01,3650.0
+2061,Ojus,2018-08-01,1738.5
+2062,Glenvar Heights,2018-08-01,1850.0
+2063,Sunset,2018-08-01,2250.0
+2064,Three Lakes,2018-08-01,2000.0
+2065,Key Biscayne,2018-08-01,4774.5
+2066,South Miami,2018-08-01,2200.0
+2067,Country Walk,2018-08-01,2200.0
+2068,North Bay Village,2018-08-01,2200.0
+2069,Surfside,2018-08-01,2990.0
+2070,Bay Harbor Islands,2018-08-01,2300.0
+2071,Bal Harbour,2018-08-01,4100.0
+2072,Miami,2018-09-01,2500.0
+2073,Hialeah,2018-09-01,1975.0
+2074,Miami Gardens,2018-09-01,1750.0
+2075,Miami Beach,2018-09-01,2400.0
+2076,Homestead,2018-09-01,1550.0
+2077,Kendall,2018-09-01,1750.0
+2078,Fountainbleau,2018-09-01,1700.0
+2079,North Miami,2018-09-01,1600.0
+2080,Kendale Lakes,2018-09-01,1650.0
+2081,Tamiami,2018-09-01,2050.0
+2082,The Hammocks,2018-09-01,1990.0
+2083,Doral,2018-09-01,2300.0
+2084,Coral Gables,2018-09-01,2800.0
+2085,Country Club,2018-09-01,1600.0
+2086,Cutler Bay,2018-09-01,1750.0
+2087,North Miami Beach,2018-09-01,1700.0
+2088,Kendall West,2018-09-01,1585.0
+2089,Aventura,2018-09-01,2400.0
+2090,Golden Glades,2018-09-01,1349.0
+2091,Richmond West,2018-09-01,2100.0
+2092,Miami Lakes,2018-09-01,2300.0
+2093,University Park,2018-09-01,2200.0
+2094,The Crossings,2018-09-01,1800.0
+2095,Hialeah Gardens,2018-09-01,1675.0
+2096,Ives Estates,2018-09-01,1662.5
+2097,Sunny Isles Beach,2018-09-01,3600.0
+2098,Ojus,2018-09-01,1700.0
+2099,Glenvar Heights,2018-09-01,1850.0
+2100,Sunset,2018-09-01,2250.0
+2101,Three Lakes,2018-09-01,2000.0
+2102,Key Biscayne,2018-09-01,4799.0
+2103,South Miami,2018-09-01,2322.5
+2104,Country Walk,2018-09-01,2200.0
+2105,North Bay Village,2018-09-01,2200.0
+2106,Surfside,2018-09-01,2950.0
+2107,Bay Harbor Islands,2018-09-01,2150.0
+2108,Bal Harbour,2018-09-01,4000.0
+2109,Miami,2018-10-01,2495.0
+2110,Hialeah,2018-10-01,1950.0
+2111,Miami Gardens,2018-10-01,1765.0
+2112,Miami Beach,2018-10-01,2395.0
+2113,Homestead,2018-10-01,1550.0
+2114,Kendall,2018-10-01,1750.0
+2115,Fountainbleau,2018-10-01,1700.0
+2116,North Miami,2018-10-01,1700.0
+2117,Kendale Lakes,2018-10-01,1650.0
+2118,Tamiami,2018-10-01,2000.0
+2119,The Hammocks,2018-10-01,1964.5
+2120,Doral,2018-10-01,2300.0
+2121,Coral Gables,2018-10-01,2750.0
+2122,Country Club,2018-10-01,1600.0
+2123,Cutler Bay,2018-10-01,1800.0
+2124,North Miami Beach,2018-10-01,1700.0
+2125,Kendall West,2018-10-01,1600.0
+2126,Aventura,2018-10-01,2400.0
+2127,Golden Glades,2018-10-01,1394.5
+2128,Richmond West,2018-10-01,2075.0
+2129,Miami Lakes,2018-10-01,2250.0
+2130,University Park,2018-10-01,2225.0
+2131,The Crossings,2018-10-01,1800.0
+2132,Hialeah Gardens,2018-10-01,1950.0
+2133,Ives Estates,2018-10-01,1700.0
+2134,Sunny Isles Beach,2018-10-01,3790.0
+2135,Ojus,2018-10-01,1625.0
+2136,Glenvar Heights,2018-10-01,1875.0
+2137,Sunset,2018-10-01,2300.0
+2138,Three Lakes,2018-10-01,2000.0
+2139,Key Biscayne,2018-10-01,4600.0
+2140,South Miami,2018-10-01,2225.0
+2141,Country Walk,2018-10-01,2205.0
+2142,North Bay Village,2018-10-01,2300.0
+2143,Surfside,2018-10-01,2947.5
+2144,Bay Harbor Islands,2018-10-01,2375.0
+2145,Bal Harbour,2018-10-01,3900.0
+2146,Miami,2018-11-01,2450.0
+2147,Hialeah,2018-11-01,2000.0
+2148,Miami Gardens,2018-11-01,1799.0
+2149,Miami Beach,2018-11-01,2400.0
+2150,Homestead,2018-11-01,1550.0
+2151,Kendall,2018-11-01,1750.0
+2152,Fountainbleau,2018-11-01,1650.0
+2153,North Miami,2018-11-01,1600.0
+2154,Kendale Lakes,2018-11-01,1675.0
+2155,Tamiami,2018-11-01,1950.0
+2156,The Hammocks,2018-11-01,1954.5
+2157,Doral,2018-11-01,2360.0
+2158,Coral Gables,2018-11-01,2950.0
+2159,Country Club,2018-11-01,1650.0
+2160,Cutler Bay,2018-11-01,1800.0
+2161,North Miami Beach,2018-11-01,1725.0
+2162,Kendall West,2018-11-01,1600.0
+2163,Aventura,2018-11-01,2400.0
+2164,Golden Glades,2018-11-01,1375.0
+2165,Richmond West,2018-11-01,2100.0
+2166,Miami Lakes,2018-11-01,2225.0
+2167,University Park,2018-11-01,2250.0
+2168,The Crossings,2018-11-01,1800.0
+2169,Hialeah Gardens,2018-11-01,1900.0
+2170,Ives Estates,2018-11-01,1700.0
+2171,Sunny Isles Beach,2018-11-01,3925.0
+2172,Ojus,2018-11-01,1600.0
+2173,Glenvar Heights,2018-11-01,1875.0
+2174,Sunset,2018-11-01,2400.0
+2175,Three Lakes,2018-11-01,2000.0
+2176,Key Biscayne,2018-11-01,4800.0
+2177,South Miami,2018-11-01,2400.0
+2178,Country Walk,2018-11-01,2300.0
+2179,North Bay Village,2018-11-01,2300.0
+2180,Surfside,2018-11-01,3000.0
+2181,Bay Harbor Islands,2018-11-01,2200.0
+2182,Bal Harbour,2018-11-01,3940.0
+2183,Miami,2018-12-01,2400.0
+2184,Hialeah,2018-12-01,2000.0
+2185,Miami Gardens,2018-12-01,1797.0
+2186,Miami Beach,2018-12-01,2450.0
+2187,Homestead,2018-12-01,1550.0
+2188,Kendall,2018-12-01,1750.0
+2189,Fountainbleau,2018-12-01,1650.0
+2190,North Miami,2018-12-01,1625.0
+2191,Kendale Lakes,2018-12-01,1650.0
+2192,Tamiami,2018-12-01,1950.0
+2193,The Hammocks,2018-12-01,2000.0
+2194,Doral,2018-12-01,2400.0
+2195,Coral Gables,2018-12-01,2800.0
+2196,Country Club,2018-12-01,1650.0
+2197,Cutler Bay,2018-12-01,1800.0
+2198,North Miami Beach,2018-12-01,1700.0
+2199,Kendall West,2018-12-01,1575.0
+2200,Aventura,2018-12-01,2450.0
+2201,Golden Glades,2018-12-01,1350.0
+2202,Richmond West,2018-12-01,2080.0
+2203,Miami Lakes,2018-12-01,2200.0
+2204,University Park,2018-12-01,2300.0
+2205,The Crossings,2018-12-01,1777.5
+2206,Hialeah Gardens,2018-12-01,1800.0
+2207,Ives Estates,2018-12-01,1695.0
+2208,Sunny Isles Beach,2018-12-01,3800.0
+2209,Ojus,2018-12-01,1700.0
+2210,Glenvar Heights,2018-12-01,1900.0
+2211,Sunset,2018-12-01,2400.0
+2212,Three Lakes,2018-12-01,2000.0
+2213,Key Biscayne,2018-12-01,4800.0
+2214,South Miami,2018-12-01,2395.0
+2215,Country Walk,2018-12-01,2300.0
+2216,North Bay Village,2018-12-01,2300.0
+2217,Surfside,2018-12-01,3000.0
+2218,Bay Harbor Islands,2018-12-01,2300.0
+2219,Bal Harbour,2018-12-01,3950.0
+2220,Miami,2019-01-01,2400.0
+2221,Hialeah,2019-01-01,2000.0
+2222,Miami Gardens,2019-01-01,1717.5
+2223,Miami Beach,2019-01-01,2400.0
+2224,Homestead,2019-01-01,1550.0
+2225,Kendall,2019-01-01,1800.0
+2226,Fountainbleau,2019-01-01,1650.0
+2227,North Miami,2019-01-01,1650.0
+2228,Kendale Lakes,2019-01-01,1662.5
+2229,Tamiami,2019-01-01,1925.0
+2230,The Hammocks,2019-01-01,1950.0
+2231,Doral,2019-01-01,2375.0
+2232,Coral Gables,2019-01-01,2900.0
+2233,Country Club,2019-01-01,1600.0
+2234,Cutler Bay,2019-01-01,1850.0
+2235,North Miami Beach,2019-01-01,1750.0
+2236,Kendall West,2019-01-01,1580.0
+2237,Aventura,2019-01-01,2400.0
+2238,Golden Glades,2019-01-01,1382.5
+2239,Richmond West,2019-01-01,2052.5
+2240,Miami Lakes,2019-01-01,2300.0
+2241,University Park,2019-01-01,2300.0
+2242,The Crossings,2019-01-01,1777.5
+2243,Hialeah Gardens,2019-01-01,1800.0
+2244,Ives Estates,2019-01-01,1862.5
+2245,Sunny Isles Beach,2019-01-01,3800.0
+2246,Ojus,2019-01-01,1650.0
+2247,Glenvar Heights,2019-01-01,1850.0
+2248,Sunset,2019-01-01,2400.0
+2249,Three Lakes,2019-01-01,2000.0
+2250,Key Biscayne,2019-01-01,4700.0
+2251,South Miami,2019-01-01,2395.0
+2252,Country Walk,2019-01-01,2282.5
+2253,North Bay Village,2019-01-01,2250.0
+2254,Surfside,2019-01-01,3000.0
+2255,Bay Harbor Islands,2019-01-01,2250.0
+2256,Bal Harbour,2019-01-01,3900.0
+2257,Miami,2019-02-01,2400.0
+2258,Hialeah,2019-02-01,1975.0
+2259,Miami Gardens,2019-02-01,1700.0
+2260,Miami Beach,2019-02-01,2400.0
+2261,Homestead,2019-02-01,1550.0
+2262,Kendall,2019-02-01,1800.0
+2263,Fountainbleau,2019-02-01,1650.0
+2264,North Miami,2019-02-01,1650.0
+2265,Kendale Lakes,2019-02-01,1650.0
+2266,Tamiami,2019-02-01,2000.0
+2267,The Hammocks,2019-02-01,1982.5
+2268,Doral,2019-02-01,2400.0
+2269,Coral Gables,2019-02-01,3000.0
+2270,Country Club,2019-02-01,1600.0
+2271,Cutler Bay,2019-02-01,1825.0
+2272,North Miami Beach,2019-02-01,1800.0
+2273,Kendall West,2019-02-01,1550.0
+2274,Aventura,2019-02-01,2350.0
+2275,Golden Glades,2019-02-01,1350.0
+2276,Richmond West,2019-02-01,2120.0
+2277,Miami Lakes,2019-02-01,2450.0
+2278,University Park,2019-02-01,2300.0
+2279,The Crossings,2019-02-01,1800.0
+2280,Hialeah Gardens,2019-02-01,2000.0
+2281,Ives Estates,2019-02-01,1862.5
+2282,Sunny Isles Beach,2019-02-01,3550.0
+2283,Ojus,2019-02-01,1850.0
+2284,Glenvar Heights,2019-02-01,1850.0
+2285,Sunset,2019-02-01,2400.0
+2286,Three Lakes,2019-02-01,2000.0
+2287,Key Biscayne,2019-02-01,4650.0
+2288,South Miami,2019-02-01,2400.0
+2289,Country Walk,2019-02-01,2300.0
+2290,North Bay Village,2019-02-01,2250.0
+2291,Surfside,2019-02-01,2900.0
+2292,Bay Harbor Islands,2019-02-01,2295.0
+2293,Bal Harbour,2019-02-01,4000.0
+2294,Miami,2019-03-01,2450.0
+2295,Hialeah,2019-03-01,1975.0
+2296,Miami Gardens,2019-03-01,1750.0
+2297,Miami Beach,2019-03-01,2400.0
+2298,Homestead,2019-03-01,1600.0
+2299,Kendall,2019-03-01,1800.0
+2300,Fountainbleau,2019-03-01,1700.0
+2301,North Miami,2019-03-01,1600.0
+2302,Kendale Lakes,2019-03-01,1675.0
+2303,Tamiami,2019-03-01,2000.0
+2304,The Hammocks,2019-03-01,2000.0
+2305,Doral,2019-03-01,2400.0
+2306,Coral Gables,2019-03-01,2950.0
+2307,Country Club,2019-03-01,1600.0
+2308,Cutler Bay,2019-03-01,1800.0
+2309,North Miami Beach,2019-03-01,1900.0
+2310,Kendall West,2019-03-01,1550.0
+2311,Aventura,2019-03-01,2400.0
+2312,Golden Glades,2019-03-01,1322.5
+2313,Richmond West,2019-03-01,2110.0
+2314,Miami Lakes,2019-03-01,2050.0
+2315,University Park,2019-03-01,2300.0
+2316,The Crossings,2019-03-01,1875.0
+2317,Hialeah Gardens,2019-03-01,1950.0
+2318,Ives Estates,2019-03-01,2024.5
+2319,Sunny Isles Beach,2019-03-01,3700.0
+2320,Ojus,2019-03-01,1825.0
+2321,Glenvar Heights,2019-03-01,1850.0
+2322,Sunset,2019-03-01,2400.0
+2323,Three Lakes,2019-03-01,2000.0
+2324,Key Biscayne,2019-03-01,4700.0
+2325,South Miami,2019-03-01,2400.0
+2326,Country Walk,2019-03-01,2397.5
+2327,North Bay Village,2019-03-01,2250.0
+2328,Surfside,2019-03-01,2825.0
+2329,Bay Harbor Islands,2019-03-01,2200.0
+2330,Bal Harbour,2019-03-01,4000.0
+2331,Miami,2019-04-01,2405.0
+2332,Hialeah,2019-04-01,2000.0
+2333,Miami Gardens,2019-04-01,1800.0
+2334,Miami Beach,2019-04-01,2400.0
+2335,Homestead,2019-04-01,1600.0
+2336,Kendall,2019-04-01,1850.0
+2337,Fountainbleau,2019-04-01,1650.0
+2338,North Miami,2019-04-01,1600.0
+2339,Kendale Lakes,2019-04-01,1700.0
+2340,Tamiami,2019-04-01,2200.0
+2341,The Hammocks,2019-04-01,2000.0
+2342,Doral,2019-04-01,2375.0
+2343,Coral Gables,2019-04-01,3000.0
+2344,Country Club,2019-04-01,1600.0
+2345,Cutler Bay,2019-04-01,1850.0
+2346,North Miami Beach,2019-04-01,2100.0
+2347,Kendall West,2019-04-01,1600.0
+2348,Aventura,2019-04-01,2400.0
+2349,Golden Glades,2019-04-01,1250.0
+2350,Richmond West,2019-04-01,2100.0
+2351,Miami Lakes,2019-04-01,2150.0
+2352,University Park,2019-04-01,2275.0
+2353,The Crossings,2019-04-01,1850.0
+2354,Hialeah Gardens,2019-04-01,1700.0
+2355,Ives Estates,2019-04-01,1850.0
+2356,Sunny Isles Beach,2019-04-01,3800.0
+2357,Ojus,2019-04-01,1700.0
+2358,Glenvar Heights,2019-04-01,1775.0
+2359,Sunset,2019-04-01,2400.0
+2360,Three Lakes,2019-04-01,2000.0
+2361,Key Biscayne,2019-04-01,4925.0
+2362,South Miami,2019-04-01,2500.0
+2363,Country Walk,2019-04-01,2400.0
+2364,North Bay Village,2019-04-01,2250.0
+2365,Surfside,2019-04-01,2800.0
+2366,Bay Harbor Islands,2019-04-01,2500.0
+2367,Bal Harbour,2019-04-01,4000.0
+2368,Miami,2019-05-01,2400.0
+2369,Hialeah,2019-05-01,2000.0
+2370,Miami Gardens,2019-05-01,1825.0
+2371,Miami Beach,2019-05-01,2400.0
+2372,Homestead,2019-05-01,1650.0
+2373,Kendall,2019-05-01,1850.0
+2374,Fountainbleau,2019-05-01,1650.0
+2375,North Miami,2019-05-01,1450.0
+2376,Kendale Lakes,2019-05-01,1700.0
+2377,Tamiami,2019-05-01,2000.0
+2378,The Hammocks,2019-05-01,2000.0
+2379,Doral,2019-05-01,2350.0
+2380,Coral Gables,2019-05-01,3000.0
+2381,Country Club,2019-05-01,1600.0
+2382,Cutler Bay,2019-05-01,1850.0
+2383,North Miami Beach,2019-05-01,2110.0
+2384,Kendall West,2019-05-01,1625.0
+2385,Aventura,2019-05-01,2400.0
+2386,Golden Glades,2019-05-01,1200.0
+2387,Richmond West,2019-05-01,2112.5
+2388,Miami Lakes,2019-05-01,2300.0
+2389,University Park,2019-05-01,2125.0
+2390,The Crossings,2019-05-01,1800.0
+2391,Hialeah Gardens,2019-05-01,1700.0
+2392,Ives Estates,2019-05-01,1900.0
+2393,Sunny Isles Beach,2019-05-01,3500.0
+2394,Ojus,2019-05-01,1625.0
+2395,Glenvar Heights,2019-05-01,1800.0
+2396,Sunset,2019-05-01,2600.0
+2397,Three Lakes,2019-05-01,2000.0
+2398,Key Biscayne,2019-05-01,5000.0
+2399,South Miami,2019-05-01,2150.0
+2400,Country Walk,2019-05-01,2400.0
+2401,North Bay Village,2019-05-01,2100.0
+2402,Surfside,2019-05-01,2850.0
+2403,Bay Harbor Islands,2019-05-01,2425.0
+2404,Bal Harbour,2019-05-01,4100.0
+2405,Miami,2019-06-01,2400.0
+2406,Hialeah,2019-06-01,1975.0
+2407,Miami Gardens,2019-06-01,1849.5
+2408,Miami Beach,2019-06-01,2362.5
+2409,Homestead,2019-06-01,1650.0
+2410,Kendall,2019-06-01,1849.5
+2411,Fountainbleau,2019-06-01,1677.5
+2412,North Miami,2019-06-01,1500.0
+2413,Kendale Lakes,2019-06-01,1700.0
+2414,Tamiami,2019-06-01,1950.0
+2415,The Hammocks,2019-06-01,2000.0
+2416,Doral,2019-06-01,2300.0
+2417,Coral Gables,2019-06-01,2900.0
+2418,Country Club,2019-06-01,1585.0
+2419,Cutler Bay,2019-06-01,1899.0
+2420,North Miami Beach,2019-06-01,2075.0
+2421,Kendall West,2019-06-01,1650.0
+2422,Aventura,2019-06-01,2400.0
+2423,Golden Glades,2019-06-01,1200.0
+2424,Richmond West,2019-06-01,2125.0
+2425,Miami Lakes,2019-06-01,2300.0
+2426,University Park,2019-06-01,2300.0
+2427,The Crossings,2019-06-01,1850.0
+2428,Hialeah Gardens,2019-06-01,1600.0
+2429,Ives Estates,2019-06-01,1800.0
+2430,Sunny Isles Beach,2019-06-01,3600.0
+2431,Ojus,2019-06-01,1677.5
+2432,Glenvar Heights,2019-06-01,1800.0
+2433,Sunset,2019-06-01,2600.0
+2434,Three Lakes,2019-06-01,2000.0
+2435,Key Biscayne,2019-06-01,5200.0
+2436,South Miami,2019-06-01,2150.0
+2437,Country Walk,2019-06-01,2397.5
+2438,North Bay Village,2019-06-01,2125.0
+2439,Surfside,2019-06-01,2737.5
+2440,Bay Harbor Islands,2019-06-01,2462.5
+2441,Bal Harbour,2019-06-01,3925.0
+2442,Miami,2019-07-01,2400.0
+2443,Hialeah,2019-07-01,1975.0
+2444,Miami Gardens,2019-07-01,1845.0
+2445,Miami Beach,2019-07-01,2400.0
+2446,Homestead,2019-07-01,1650.0
+2447,Kendall,2019-07-01,1875.0
+2448,Fountainbleau,2019-07-01,1650.0
+2449,North Miami,2019-07-01,1600.0
+2450,Kendale Lakes,2019-07-01,1700.0
+2451,Tamiami,2019-07-01,2100.0
+2452,The Hammocks,2019-07-01,2050.0
+2453,Doral,2019-07-01,2300.0
+2454,Coral Gables,2019-07-01,2990.0
+2455,Country Club,2019-07-01,1600.0
+2456,Cutler Bay,2019-07-01,1950.0
+2457,North Miami Beach,2019-07-01,1900.0
+2458,Kendall West,2019-07-01,1575.0
+2459,Aventura,2019-07-01,2350.0
+2460,Golden Glades,2019-07-01,1325.0
+2461,Richmond West,2019-07-01,2150.0
+2462,Miami Lakes,2019-07-01,2322.5
+2463,University Park,2019-07-01,2309.0
+2464,The Crossings,2019-07-01,1850.0
+2465,Hialeah Gardens,2019-07-01,1680.0
+2466,Ives Estates,2019-07-01,1799.0
+2467,Sunny Isles Beach,2019-07-01,3600.0
+2468,Ojus,2019-07-01,1600.0
+2469,Glenvar Heights,2019-07-01,1787.5
+2470,Sunset,2019-07-01,2500.0
+2471,Three Lakes,2019-07-01,2000.0
+2472,Key Biscayne,2019-07-01,5500.0
+2473,South Miami,2019-07-01,2200.0
+2474,Country Walk,2019-07-01,2350.0
+2475,North Bay Village,2019-07-01,2100.0
+2476,Surfside,2019-07-01,2700.0
+2477,Bay Harbor Islands,2019-07-01,2375.0
+2478,Bal Harbour,2019-07-01,3900.0
+2479,Miami,2019-08-01,2400.0
+2480,Hialeah,2019-08-01,1900.0
+2481,Miami Gardens,2019-08-01,1850.0
+2482,Miami Beach,2019-08-01,2392.0
+2483,Homestead,2019-08-01,1650.0
+2484,Kendall,2019-08-01,1862.5
+2485,Fountainbleau,2019-08-01,1690.0
+2486,North Miami,2019-08-01,1600.0
+2487,Kendale Lakes,2019-08-01,1700.0
+2488,Tamiami,2019-08-01,2200.0
+2489,The Hammocks,2019-08-01,2019.0
+2490,Doral,2019-08-01,2300.0
+2491,Coral Gables,2019-08-01,2850.0
+2492,Country Club,2019-08-01,1600.0
+2493,Cutler Bay,2019-08-01,1949.5
+2494,North Miami Beach,2019-08-01,1895.0
+2495,Kendall West,2019-08-01,1562.5
+2496,Aventura,2019-08-01,2400.0
+2497,Golden Glades,2019-08-01,1350.0
+2498,Richmond West,2019-08-01,2079.0
+2499,Miami Lakes,2019-08-01,2500.0
+2500,University Park,2019-08-01,2400.0
+2501,The Crossings,2019-08-01,1800.0
+2502,Hialeah Gardens,2019-08-01,1665.0
+2503,Ives Estates,2019-08-01,1700.0
+2504,Sunny Isles Beach,2019-08-01,3700.0
+2505,Ojus,2019-08-01,1599.0
+2506,Glenvar Heights,2019-08-01,1787.0
+2507,Sunset,2019-08-01,2500.0
+2508,Three Lakes,2019-08-01,2000.0
+2509,Key Biscayne,2019-08-01,5200.0
+2510,South Miami,2019-08-01,2300.0
+2511,Country Walk,2019-08-01,2300.0
+2512,North Bay Village,2019-08-01,2100.0
+2513,Surfside,2019-08-01,2875.0
+2514,Bay Harbor Islands,2019-08-01,2295.0
+2515,Bal Harbour,2019-08-01,4000.0
+2516,Miami,2019-09-01,2400.0
+2517,Hialeah,2019-09-01,1895.0
+2518,Miami Gardens,2019-09-01,1799.0
+2519,Miami Beach,2019-09-01,2300.0
+2520,Homestead,2019-09-01,1650.0
+2521,Kendall,2019-09-01,1850.0
+2522,Fountainbleau,2019-09-01,1650.0
+2523,North Miami,2019-09-01,1600.0
+2524,Kendale Lakes,2019-09-01,1700.0
+2525,Tamiami,2019-09-01,2200.0
+2526,The Hammocks,2019-09-01,2000.0
+2527,Doral,2019-09-01,2350.0
+2528,Coral Gables,2019-09-01,2800.0
+2529,Country Club,2019-09-01,1600.0
+2530,Cutler Bay,2019-09-01,1890.0
+2531,North Miami Beach,2019-09-01,1882.5
+2532,Kendall West,2019-09-01,1600.0
+2533,Aventura,2019-09-01,2300.0
+2534,Golden Glades,2019-09-01,1225.0
+2535,Richmond West,2019-09-01,2200.0
+2536,Miami Lakes,2019-09-01,2500.0
+2537,University Park,2019-09-01,2375.0
+2538,The Crossings,2019-09-01,1800.0
+2539,Hialeah Gardens,2019-09-01,1650.0
+2540,Ives Estates,2019-09-01,1700.0
+2541,Sunny Isles Beach,2019-09-01,3900.0
+2542,Ojus,2019-09-01,1500.0
+2543,Glenvar Heights,2019-09-01,1697.5
+2544,Sunset,2019-09-01,2500.0
+2545,Three Lakes,2019-09-01,2000.0
+2546,Key Biscayne,2019-09-01,5000.0
+2547,South Miami,2019-09-01,2350.0
+2548,Country Walk,2019-09-01,2350.0
+2549,North Bay Village,2019-09-01,2100.0
+2550,Surfside,2019-09-01,3000.0
+2551,Bay Harbor Islands,2019-09-01,2200.0
+2552,Bal Harbour,2019-09-01,4000.0
+2553,Miami,2019-10-01,2400.0
+2554,Hialeah,2019-10-01,1850.0
+2555,Miami Gardens,2019-10-01,1800.0
+2556,Miami Beach,2019-10-01,2300.0
+2557,Homestead,2019-10-01,1600.0
+2558,Kendall,2019-10-01,1800.0
+2559,Fountainbleau,2019-10-01,1600.0
+2560,North Miami,2019-10-01,1550.0
+2561,Kendale Lakes,2019-10-01,1650.0
+2562,Tamiami,2019-10-01,2150.0
+2563,The Hammocks,2019-10-01,1900.0
+2564,Doral,2019-10-01,2300.0
+2565,Coral Gables,2019-10-01,2762.5
+2566,Country Club,2019-10-01,1550.0
+2567,Cutler Bay,2019-10-01,1790.0
+2568,North Miami Beach,2019-10-01,1825.0
+2569,Kendall West,2019-10-01,1600.0
+2570,Aventura,2019-10-01,2397.5
+2571,Golden Glades,2019-10-01,1300.0
+2572,Richmond West,2019-10-01,2200.0
+2573,Miami Lakes,2019-10-01,2400.0
+2574,University Park,2019-10-01,2300.0
+2575,The Crossings,2019-10-01,1750.0
+2576,Hialeah Gardens,2019-10-01,1700.0
+2577,Ives Estates,2019-10-01,1650.0
+2578,Sunny Isles Beach,2019-10-01,3962.5
+2579,Ojus,2019-10-01,1450.0
+2580,Glenvar Heights,2019-10-01,1700.0
+2581,Sunset,2019-10-01,2500.0
+2582,Three Lakes,2019-10-01,2000.0
+2583,Key Biscayne,2019-10-01,5000.0
+2584,South Miami,2019-10-01,2200.0
+2585,Country Walk,2019-10-01,2202.5
+2586,North Bay Village,2019-10-01,2000.0
+2587,Surfside,2019-10-01,3200.0
+2588,Bay Harbor Islands,2019-10-01,2000.0
+2589,Bal Harbour,2019-10-01,3775.0
+2590,Miami,2019-11-01,2400.0
+2591,Hialeah,2019-11-01,1850.0
+2592,Miami Gardens,2019-11-01,1792.5
+2593,Miami Beach,2019-11-01,2300.0
+2594,Homestead,2019-11-01,1600.0
+2595,Kendall,2019-11-01,1750.0
+2596,Fountainbleau,2019-11-01,1600.0
+2597,North Miami,2019-11-01,1500.0
+2598,Kendale Lakes,2019-11-01,1662.5
+2599,Tamiami,2019-11-01,1800.0
+2600,The Hammocks,2019-11-01,1850.0
+2601,Doral,2019-11-01,2200.0
+2602,Coral Gables,2019-11-01,2750.0
+2603,Country Club,2019-11-01,1540.0
+2604,Cutler Bay,2019-11-01,1800.0
+2605,North Miami Beach,2019-11-01,1700.0
+2606,Kendall West,2019-11-01,1550.0
+2607,Aventura,2019-11-01,2300.0
+2608,Golden Glades,2019-11-01,1350.0
+2609,Richmond West,2019-11-01,2047.5
+2610,Miami Lakes,2019-11-01,2400.0
+2611,University Park,2019-11-01,2000.0
+2612,The Crossings,2019-11-01,1750.0
+2613,Hialeah Gardens,2019-11-01,1850.0
+2614,Ives Estates,2019-11-01,1850.0
+2615,Sunny Isles Beach,2019-11-01,4000.0
+2616,Ojus,2019-11-01,1425.0
+2617,Glenvar Heights,2019-11-01,1697.5
+2618,Sunset,2019-11-01,2400.0
+2619,Three Lakes,2019-11-01,2000.0
+2620,Key Biscayne,2019-11-01,4997.5
+2621,South Miami,2019-11-01,2125.0
+2622,Country Walk,2019-11-01,2199.0
+2623,North Bay Village,2019-11-01,1950.0
+2624,Surfside,2019-11-01,3200.0
+2625,Bay Harbor Islands,2019-11-01,2100.0
+2626,Bal Harbour,2019-11-01,3450.0
+2627,Miami,2019-12-01,2400.0
+2628,Hialeah,2019-12-01,1850.0
+2629,Miami Gardens,2019-12-01,1800.0
+2630,Miami Beach,2019-12-01,2300.0
+2631,Homestead,2019-12-01,1562.5
+2632,Kendall,2019-12-01,1745.0
+2633,Fountainbleau,2019-12-01,1600.0
+2634,North Miami,2019-12-01,1500.0
+2635,Kendale Lakes,2019-12-01,1650.0
+2636,Tamiami,2019-12-01,1800.0
+2637,The Hammocks,2019-12-01,1825.0
+2638,Doral,2019-12-01,2200.0
+2639,Coral Gables,2019-12-01,2650.0
+2640,Country Club,2019-12-01,1550.0
+2641,Cutler Bay,2019-12-01,1835.0
+2642,North Miami Beach,2019-12-01,1712.5
+2643,Kendall West,2019-12-01,1550.0
+2644,Aventura,2019-12-01,2300.0
+2645,Golden Glades,2019-12-01,1400.0
+2646,Richmond West,2019-12-01,2025.0
+2647,Miami Lakes,2019-12-01,2400.0
+2648,University Park,2019-12-01,2000.0
+2649,The Crossings,2019-12-01,1750.0
+2650,Hialeah Gardens,2019-12-01,1575.0
+2651,Ives Estates,2019-12-01,1950.0
+2652,Sunny Isles Beach,2019-12-01,3900.0
+2653,Ojus,2019-12-01,1400.0
+2654,Glenvar Heights,2019-12-01,1637.5
+2655,Sunset,2019-12-01,2297.0
+2656,Three Lakes,2019-12-01,2000.0
+2657,Key Biscayne,2019-12-01,5000.0
+2658,South Miami,2019-12-01,2200.0
+2659,Country Walk,2019-12-01,2200.0
+2660,North Bay Village,2019-12-01,1974.5
+2661,Surfside,2019-12-01,2900.0
+2662,Bay Harbor Islands,2019-12-01,2200.0
+2663,Bal Harbour,2019-12-01,3800.0
